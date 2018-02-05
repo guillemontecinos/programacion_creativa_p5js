@@ -2,7 +2,7 @@
 *Curso de introducción a la programación creativa con p5.js*<br>
 Dictado por Guillermo Montecinos
 
-Este repositorio contiene el material del Curso de introducción a la programación creativa en p5.js organizado por [Escuela Coded](http://codedescuela.cl), [Productora Suricata](https://productorasuricata.com/) y [Centro La Planta](http://centrolaplanta.com/).
+Este repositorio contiene el material del Curso de introducción a la programación creativa en [p5.js](http://p5js.org) organizado por [Escuela Coded](http://codedescuela.cl), [Productora Suricata](https://productorasuricata.com/) y [Centro La Planta](http://centrolaplanta.com/).
 
 ## Sobre el Curso
 Curso de introducción a la programación creativa que busca explorar las posibilidades de los nuevos medios digitales en contextos artísticos y/o creativos. Como una primera aproximación, durante 6 sesiones revisaremos las nociones elementales de programación que permitan la construcción de sistemas complejos, utilizando el código como herramienta facilitadora de la expresión de la creatividad.
