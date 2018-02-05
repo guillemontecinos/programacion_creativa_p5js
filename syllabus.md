@@ -1,4 +1,6 @@
-# Introducción a la programacin creativa en p5.js - Syllabus
+# Introducción a la programación creativa en p5.js - Syllabus
+Programa del curso de Introduccin a la programación creativa en p5.js organizado por [Escuela Coded](http://codedescuela.cl), [Productora Suricata](https://productorasuricata.com/) y [Centro La Planta](http://centrolaplanta.com/).
+El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  en Centro La Planta entre los días 12 y 28 de marzo de 2018.
 
 ## Módulo 1 - Recode
 ### Clase 1
