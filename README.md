@@ -12,5 +12,5 @@ Analizaremos referentes de las artes visuales a través de la reinterpretación 
 Posteriormente, revisaremos técnicas para trabajar con imagen, audio y video en un entorno web interactivo, para finalizar el curso con el desarrollo de un proyecto personal o grupal que utilice las herramientas exploradas.
 
 ## Sobre el Instructor
-Guillermo Montecinos es educador, músico e ingeniero con base en Santiago. Su trabajo se enfoca en la construcción de experiencias sonoras inmersivas que evoquen y provoquen a la audiencia a partir de la sonoridad y visualidad. Es co-fundador de Coded, Escuela de Artes y Oficios Electrónicos (Santiago, Chile) y graduado de la School for Poetic Computation (NY). 
+Guillermo Montecinos es educador, músico e ingeniero con base en Santiago. Su trabajo se enfoca en la construcción de experiencias sonoras inmersivas que evoquen y provoquen a la audiencia a partir de la sonoridad y visualidad. Es co-fundador de Coded, Escuela de Artes y Oficios Electrónicos (Santiago, Chile) y graduado de la School for Poetic Computation (NY).<br> 
 http://guillemontecinos.cl/
