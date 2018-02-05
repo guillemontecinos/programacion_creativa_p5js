@@ -24,6 +24,7 @@ El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  
 - Revisión recode Carmen Herrera
 - charla 2, Aarón Montoya-Moraga
 - Hélio Oiticica, arte concreto
+- Recode de Metaesquema
 #### Conceptos
 - Variables
 - Arreglos
