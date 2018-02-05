@@ -18,7 +18,19 @@ El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  
 - Primeras formas: ellipse(), rect() y triang()
 - Color: RGB, HSB, colorMode()
 - Funciones espaciales: push(), pop(), translate() y rotate()
+#### Referencias
+- [Sesión 2. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller_p5js_01/sesiones/sesion_2/slides/#/)
 ### Clase 2: Hélio Oiticica (14 de marzo)
+- Revisión recode Carmen Herrera
+- charla 2, Aarón Montoya-Moraga
+- Hélio Oiticica, arte concreto
+#### Conceptos
+- Variables
+- Arreglos
+- Bucles For
+- Condicional if
+#### Referencias
+- [Sesión 3. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller_p5js_01/sesiones/sesion_3/slides/#/)
 ## Módulo 2 - Medios: texto, imagen, sonido y video
 ### Clase 3
 ### Clase 4
