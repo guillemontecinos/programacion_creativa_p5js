@@ -4,9 +4,10 @@ El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  
 
 ## Módulo 1 - Recode
 ### Clase 1: Carmen Herrera (12 de marzo)
-- Presentación del instructor y Escuela Coded
-- Presentación del Curso, objetivos y alcances
-- laksjd
+- presentación del instructor y Escuela Coded
+- presentación del Curso, objetivos y alcances
+- introducción a p5.js
+- alpha.editor
 ### Clase 2: Hélio Oiticica (14 de marzo)
 ## Módulo 2 - Medios: texto, imagen, sonido y video
 ### Clase 3
