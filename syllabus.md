@@ -6,12 +6,17 @@ El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  
 ### Clase 1: Carmen Herrera (12 de marzo)
 - presentación del instructor y Escuela Coded
 - presentación del Curso, objetivos y alcances
+- introducción a las Artes Mediales, por Aarón Montoya-Moraga
 - introducción a p5.js
 - entorno de programación: editor web
 - referencia web de p5.js
+- Carmen Herrera, arte abstracto
+- recode de Green & Orange
+#### Conceptos
 - estructura de p5.js
 - primeras formas: ellipse(), rect() y triang()
 - color: RGB, HSB, colorMode()
+- funciones espaciales: translate() y rotate()
 ### Clase 2: Hélio Oiticica (14 de marzo)
 ## Módulo 2 - Medios: texto, imagen, sonido y video
 ### Clase 3
