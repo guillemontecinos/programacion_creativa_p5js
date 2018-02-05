@@ -17,7 +17,7 @@ El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  
 - Estructura de p5.js
 - Primeras formas: ellipse(), rect() y triang()
 - Color: RGB, HSB, colorMode()
-- Funciones espaciales: translate() y rotate()
+- Funciones espaciales: push(), pop(), translate() y rotate()
 ### Clase 2: Hélio Oiticica (14 de marzo)
 ## Módulo 2 - Medios: texto, imagen, sonido y video
 ### Clase 3
