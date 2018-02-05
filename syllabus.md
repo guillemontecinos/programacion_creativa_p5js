@@ -7,7 +7,11 @@ El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  
 - presentación del instructor y Escuela Coded
 - presentación del Curso, objetivos y alcances
 - introducción a p5.js
-- alpha.editor
+- entorno de programación: editor web
+- referencia web de p5.js
+- estructura de p5.js
+- primeras formas: ellipse(), rect() y triang()
+- color: RGB, HSB, colorMode()
 ### Clase 2: Hélio Oiticica (14 de marzo)
 ## Módulo 2 - Medios: texto, imagen, sonido y video
 ### Clase 3
