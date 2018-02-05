@@ -32,8 +32,12 @@ El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  
 #### Referencias
 - [Sesión 3. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller_p5js_01/sesiones/sesion_3/slides/#/)
 ## Módulo 2 - Medios: texto, imagen, sonido y video
-### Clase 3
-### Clase 4
+### Clase 3: Texto e Imágenes (19 de marzo)
+#### Conceptos
+#### Referencias
+### Clase 4: Video y Sonido en p5.js (21 de marzo)
+#### Conceptos
+#### Referencias
 ## Módulo 3 - Proyecto
-### Clase 5
-### Clase 6
+### Clase 5 (26 de marzo)
+### Clase 6 (28 de marzo)
