@@ -7,7 +7,7 @@ Este repositorio contiene el material del Curso de introducción a la programaci
 ## Sobre el Curso
 Curso de introducción a la programación creativa que busca explorar las posibilidades de los nuevos medios digitales en contextos artísticos y/o creativos. Como una primera aproximación, durante 6 sesiones revisaremos las nociones elementales de programación que permitan la construcción de sistemas complejos, utilizando el código como herramienta facilitadora de la expresión de la creatividad.
 
-Analizaremos referentes de las artes visuales latinoamericanas a través de la reinterpretación y réplica de algunas de sus obras mediante el lenguaje de programación -inspirados por el proyecto [ReCode](http://recodeproject.com/)-. De esta manera, el código será una herramienta al servicio de la creatividad desde el cual podremos analizar una obra, para luego experimentar con los elementos obtenidos de ella.
+Analizaremos referentes de las artes visuales latinoamericanas a través de la reinterpretación de algunas de sus obras mediante el lenguaje de programación -inspirados por el proyecto [ReCode](http://recodeproject.com/)-. De esta manera, el código será una herramienta al servicio de la creatividad desde el cual podremos analizar una obra, para luego experimentar con los elementos obtenidos de ella.
 
 Posteriormente, revisaremos técnicas para trabajar con imagen, audio y video en un entorno web interactivo, para finalizar el curso con el desarrollo de un proyecto personal o grupal que utilice las herramientas exploradas.
 
