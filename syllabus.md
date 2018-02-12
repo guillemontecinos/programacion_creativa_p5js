@@ -42,3 +42,7 @@ El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  
 ## Módulo 3 - Proyecto
 ### Clase 5 (26 de marzo)
 ### Clase 6 (28 de marzo)
+
+## Referencias
+https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.2.pdf<br>
+https://runemadsen.com/syllabi/programming-design-systems/
