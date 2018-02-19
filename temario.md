@@ -22,7 +22,6 @@ El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  
 - Manipulación de pixeles
 - Captura de video con web
 - Manipulación de video en vivo
-#### Referencias
 ## Módulo 3 - Proyecto
 ### Clase 5 (26 de marzo)
 - Trabajo en proyecto
