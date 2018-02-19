@@ -17,6 +17,8 @@ El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  
 ### Clase 3: Texto (19 de marzo)
 - Manejo de texto en p5.js
 - Objeto Font
+- Convertir texto en arreglo de puntos
+- Animación de texto
 ### Clase 4: Imagen y Video en p5.js (21 de marzo)
 - Importación de imágenes
 - Manipulación de pixeles
