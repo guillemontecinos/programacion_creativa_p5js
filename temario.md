@@ -3,6 +3,7 @@ Programa del curso de Introducción a la programación creativa en p5.js organiz
 El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  en Centro La Planta entre los días 12 y 28 de marzo de 2018.
 
 ## Módulo 1 - Recode
+### Clase 1: Introducción a p5.js (12 de marzo)
 - Introducción a las Artes Mediales
 - Estructura de p5.js
 - Primeras formas: ellipse(), rect() y triang()
