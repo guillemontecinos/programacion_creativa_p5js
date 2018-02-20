@@ -9,7 +9,7 @@ El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  
 - Primeras formas: ellipse(), rect() y triang()
 - Color: RGB, HSB, colorMode()
 - Funciones espaciales: push(), pop(), translate() y rotate()
-### Clase 2: Hélio Oiticica (14 de marzo)
+### Clase 2: Variables, bucles y condicionales (14 de marzo)
 - Variables
 - Arreglos
 - Bucles For
