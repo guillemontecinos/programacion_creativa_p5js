@@ -73,7 +73,7 @@ La última clase del curso será dividida en tres partes:
 - Cierre de proyectos
 - Presentación de proyectos: Los participantes mostrarán a sus compañeros sus proyectos, describiendo su proceso, aprendizajes y logros. Se invitará a un grupo de profesores destacados quienes darán comentarios los participantes sobre su trabajo.
 - Cierre de curso
-## Referencias
+## Referencias del curso
 - [Libro *Getting Started in p5.js* en Español](https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.2.pdf)
 - [*The Coding Train*, tutorial de YouTube de Daniel Shiffman](https://www.youtube.com/user/shiffman)
 
