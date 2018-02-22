@@ -11,20 +11,21 @@ El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  
 - Entorno de programación: editor web
 - Referencia web de p5.js
 - Carmen Herrera, arte abstracto
-- Recode de Green & Orange
+- Recode: Green & Orange
 - Tarea: reprogramar una obra de Herrera aplicando los conceptos revisados. Experimentar con variaciones e integración de otras herramientas
 #### Conceptos
 - Estructura de p5.js
+- Sintáxis de JavaScript
 - Primeras formas: ellipse(), rect() y triang()
 - Color: RGB, HSB, colorMode()
 - Funciones espaciales: push(), pop(), translate() y rotate()
 #### Referencias
 - [Sesión 2. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller_p5js_01/sesiones/sesion_2/slides/#/)
 ### Clase 2: Hélio Oiticica (14 de marzo)
-- Revisión recode Carmen Herrera
-- charla 2, Aarón Montoya-Moraga
+- Presentación y comentarios recode Carmen Herrera
+- Arte Web y Nuevos Medios, por Aarón Montoya-Moraga
 - Hélio Oiticica, arte concreto
-- Recode de Metaesquema
+- Recode: Metaesquema
 #### Conceptos
 - Variables
 - Arreglos
@@ -34,9 +35,18 @@ El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  
 - [Sesión 3. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller_p5js_01/sesiones/sesion_3/slides/#/)
 ## Módulo 2 - Medios: texto, imagen, sonido y video
 ### Clase 3: Texto e Imágenes (19 de marzo)
+- Presentación y comentarios recode Hélio Oiticica
+- Muriel Cooper y John Maeda: tipografía y diseño
+- Uso de texto y fuentes en p5.js
+- Importación de texto como un arreglo de puntos
+- Recode: *Japanese Poster*, de John Maeda
 #### Conceptos
+- Función preload()
+- Métodos de objeto *font*: textBounds() y textToPints()
 #### Referencias
+- [Sesión 4. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller_p5js_01/sesiones/sesion_4/slides/#/)
 ### Clase 4: Video y Sonido en p5.js (21 de marzo)
+- 
 #### Conceptos
 #### Referencias
 ## Módulo 3 - Proyecto
