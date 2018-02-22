@@ -1,7 +1,10 @@
 # Introducción a la programación creativa en p5.js - Syllabus
 Programa del curso de Introducción a la programación creativa en p5.js organizado por [Escuela Coded](http://codedescuela.cl), [Productora Suricata](https://productorasuricata.com/) y [Centro La Planta](http://centrolaplanta.com/).
 El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  en Centro La Planta entre los días 12 y 28 de marzo de 2018.
-
+## Sobre el Curso
+Curso de introducción a la programación creativa que busca explorar las posibilidades de los nuevos medios digitales en contextos artísticos y/o creativos. Como una primera aproximación, durante 6 sesiones revisaremos las nociones elementales de programación que permitan la construcción de sistemas complejos, utilizando el código como herramienta facilitadora de la expresión de la creatividad.
+Analizaremos referentes de las artes visuales latinoamericanas a través de la reinterpretación de algunas de sus obras mediante el lenguaje de programación -inspirados por el proyecto [ReCode](http://recodeproject.com/)-. De esta manera, el código será una herramienta al servicio de la creatividad desde el cual podremos analizar una obra, para luego experimentar con los elementos obtenidos de ella.
+Posteriormente, revisaremos técnicas para trabajar con imagen, audio y video en un entorno web interactivo, para finalizar el curso con el desarrollo de un proyecto personal o grupal que utilice las herramientas exploradas.
 ## Módulo 1 - Recode
 ### Clase 1: Carmen Herrera (12 de marzo)
 En esta primera clase realizaremos una introducción al curso en la que plantearemos las ideas que nos motivan a enseñar el uso de un *Software Libre* ([FLOSS](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)) como [p5.js](https://p5js.org/es). Luego discutiremos el contexto en que se desarrollan este tipo de herramientas de programacin horientadas al arte. Posteriormente analizaremos el trabajo artístico de pintora cubana Carmen Herrera, para finalmente reinterpretar en código una de sus obras a través de la cual revisaremos, aplicaremos y comprenderemos la estructura y funciones básicas de p5.js, la sintáxis elemental de JavaScript.
@@ -73,3 +76,7 @@ La última clase del curso será dividida en tres partes:
 ## Referencias
 - [Libro *Getting Started in p5.js* en Español](https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.2.pdf)
 - [*The Coding Train*, tutorial de YouTube de Daniel Shiffman](https://www.youtube.com/user/shiffman)
+
+## Sobre el Instructor
+Guillermo Montecinos es educador, músico e ingeniero con base en Santiago. Su trabajo se enfoca en la construcción de experiencias sonoras inmersivas que evoquen y provoquen a la audiencia a partir de la sonoridad y visualidad. Es co-fundador de Coded, Escuela de Artes y Oficios Electrónicos (Santiago, Chile) y graduado de la School for Poetic Computation (NY).<br> 
+http://guillemontecinos.cl/
