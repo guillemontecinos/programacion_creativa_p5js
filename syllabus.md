@@ -4,6 +4,7 @@ El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  
 
 ## Módulo 1 - Recode
 ### Clase 1: Carmen Herrera (12 de marzo)
+En esta primera clase realizaremos una introducción al curso, describiendo
 - Presentación del instructor y Escuela Coded
 - Presentación del Curso, objetivos y alcances
 - Introducción a las Artes Mediales, por Aarón Montoya-Moraga
@@ -46,13 +47,19 @@ El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  
 #### Referencias
 - [Sesión 4. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller_p5js_01/sesiones/sesion_4/slides/#/)
 ### Clase 4: Video y Sonido en p5.js (21 de marzo)
-- 
+- Importación de imágenes a p5.js
+- Aplicación de filtros en p5.js
+- Importación de pixeles
+- Manipulacin de pixeles
+- Captura de video mediante webcam
+- Procesamiento de imagen en vivo
 #### Conceptos
+- Funciones: loadImage(), createCapture(), loadPixels(), updatePixels(), get() y set()
 #### Referencias
 ## Módulo 3 - Proyecto
 ### Clase 5 (26 de marzo)
 ### Clase 6 (28 de marzo)
 
 ## Referencias
-https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.2.pdf<br>
-https://runemadsen.com/syllabi/programming-design-systems/
+- [Libro *Getting Started in p5.js* en Español](https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.2.pdf)
+- [*The Coding Train*, tutorial de YouTube de Daniel Shiffman](https://www.youtube.com/user/shiffman)
