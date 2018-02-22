@@ -4,7 +4,7 @@ El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  
 
 ## Módulo 1 - Recode
 ### Clase 1: Carmen Herrera (12 de marzo)
-En esta primera clase realizaremos una introducción al curso en la que plantearemos las ideas que nos motivan a enseñar el uso de un *Software Libre* ([FLOSS](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)) como [p5.js](https://p5js.org/es). Luego discutiremos el contexto en que se desarrollan este tipo de herramientas de programacin horientadas al arte. Posteriormente analizaremos el trabajo artístico de Carmen Herrera, pintora abstracta, para finalmente reinterpretar en código una de sus obras a través de la cual revisaremos, aplicaremos y comprenderemos la estructura y funciones básicas de p5.js, la sintáxis elemental de JavaScript.
+En esta primera clase realizaremos una introducción al curso en la que plantearemos las ideas que nos motivan a enseñar el uso de un *Software Libre* ([FLOSS](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)) como [p5.js](https://p5js.org/es). Luego discutiremos el contexto en que se desarrollan este tipo de herramientas de programacin horientadas al arte. Posteriormente analizaremos el trabajo artístico de pintora cubana Carmen Herrera, para finalmente reinterpretar en código una de sus obras a través de la cual revisaremos, aplicaremos y comprenderemos la estructura y funciones básicas de p5.js, la sintáxis elemental de JavaScript.
 ### Temario
 - Presentación del instructor y Escuela Coded
 - Presentación del Curso, objetivos y alcances
@@ -24,6 +24,7 @@ En esta primera clase realizaremos una introducción al curso en la que plantear
 #### Referencias
 - [Sesión 2. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller_p5js_01/sesiones/sesion_2/slides/#/)
 ### Clase 2: Hélio Oiticica (14 de marzo)
+En esta clase volveremos a revisar y discutir el contexto de las artes mediales, poniendo el foco esta vez en las artes interactivas en entornos web. Posteriormente revisaremos la obra concreta del artista brasileño, particularmente de su ejercicio denominado *Metaesquema* el cual utilizaremos como modelo para analizar y comprender la lógica algorítmica de sus composiciones. Finalmente llevaremos al código uno de sus ejercicios de Metaesquema, a través del cual revisaremos conceptos elementales de programación como bucles for, condicionales y arreglos de variables.
 - Presentación y comentarios recode Carmen Herrera
 - Arte Web y Nuevos Medios, por Aarón Montoya-Moraga
 - Hélio Oiticica, arte concreto
