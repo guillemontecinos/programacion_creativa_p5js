@@ -29,6 +29,7 @@ En esta clase volveremos a revisar y discutir el contexto de las artes mediales,
 - Arte Web y Nuevos Medios, por Aarón Montoya-Moraga
 - Hélio Oiticica, arte concreto
 - Recode: Metaesquema
+- Presentación del Proyecto Final
 #### Conceptos
 - Variables
 - Arreglos
@@ -51,6 +52,7 @@ En esta clase revisaremos pasajes de la obra de los diseñadores Muriel Cooper y
 #### Referencias
 - [Sesión 4. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller_p5js_01/sesiones/sesion_4/slides/#/)
 ### Clase 4: Video y Sonido en p5.js (21 de marzo)
+En esta clase exploraremos las posibilidades que nos entrega p5.js para trabajar con imágenes y video. Comenzaremos importando una imagen al *browser*, la cual manipularemos y filtraremos utilizando las funciones nativas de p5.js. Posteriormente comprenderemos la imagen como una matriz de pixeles, los cuales pueden ser importados y manipulados por separado, creando filtros más complejos sobre la imagen fija. Luego aprenderemos a importar video desde la webcam utilizando el capturador de p5.js, el que desplegaremos en el *browser* y manipularemos en tiempo real.
 - Importación de imágenes a p5.js
 - Aplicación de filtros en p5.js
 - Importación de pixeles
@@ -62,8 +64,12 @@ En esta clase revisaremos pasajes de la obra de los diseñadores Muriel Cooper y
 #### Referencias
 ## Módulo 3 - Proyecto
 ### Clase 5 (26 de marzo)
+La penúltima clase del curso estará dedicada a que cada participante trabaje en el desarrollo de su proyecto personal/grupal. El equipo Coded cumplirá el rol de facilitar y ayudar a la programacin de cada uno de los proyectos.
 ### Clase 6 (28 de marzo)
-
+La última clase del curso será dividida en tres partes: 
+- Cierre de proyectos
+- Presentación de proyectos: Los participantes mostrarán a sus compañeros sus proyectos, describiendo su proceso, aprendizajes y logros. Se invitará a un grupo de profesores destacados quienes darán comentarios los participantes sobre su trabajo.
+- Cierre de curso
 ## Referencias
 - [Libro *Getting Started in p5.js* en Español](https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.2.pdf)
 - [*The Coding Train*, tutorial de YouTube de Daniel Shiffman](https://www.youtube.com/user/shiffman)
