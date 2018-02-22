@@ -4,7 +4,8 @@ El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  
 
 ## Módulo 1 - Recode
 ### Clase 1: Carmen Herrera (12 de marzo)
-En esta primera clase realizaremos una introducción al curso, describiendo
+En esta primera clase realizaremos una introducción al curso en la que plantearemos las ideas que nos motivan a enseñar el uso de un *Software Libre* ([FLOSS](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)) como [p5.js](https://p5js.org/es). Luego discutiremos el contexto en que se desarrollan este tipo de herramientas de programacin horientadas al arte. Posteriormente analizaremos el trabajo artístico de Carmen Herrera, pintora abstracta, para finalmente reinterpretar en código una de sus obras a través de la cual revisaremos, aplicaremos y comprenderemos la estructura y funciones básicas de p5.js, la sintáxis elemental de JavaScript.
+### Temario
 - Presentación del instructor y Escuela Coded
 - Presentación del Curso, objetivos y alcances
 - Introducción a las Artes Mediales, por Aarón Montoya-Moraga
