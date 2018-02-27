@@ -28,7 +28,7 @@ En esta primera clase realizaremos una introducción al curso en la que plantear
 - Funciones espaciales: [push()](https://p5js.org/es/reference/#/p5/push), [pop()](https://p5js.org/es/reference/#/p5/pop), [translate()](https://p5js.org/es/reference/#/p5/translate) y [rotate()](https://p5js.org/es/reference/#/p5/rotate)
 #### Referencias
 - [Sesión 2. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller_p5js_01/sesiones/sesion_2/slides/#/)
-- [*The 100 years show*](https://www.netflix.com/title/80106609)
+- [*The 100 years show*](https://www.netflix.com/title/80106609), documental sobre Carmen Herrera
 ### Clase 2: Arreglos, Bucles *For* y Condicionales *If* (14 de marzo)
 En esta clase volveremos a revisar y discutir el contexto de las artes mediales, poniendo el foco esta vez en las artes interactivas en entornos web. Posteriormente revisaremos la obra concreta del artista brasileño, particularmente de su ejercicio denominado *Metaesquema* el cual utilizaremos como modelo para analizar y comprender la lógica algorítmica de sus composiciones. Finalmente llevaremos al código uno de sus ejercicios de Metaesquema, a través del cual revisaremos conceptos elementales de programación como bucles for, condicionales y arreglos de variables.
 - Presentación y comentarios recode Carmen Herrera
