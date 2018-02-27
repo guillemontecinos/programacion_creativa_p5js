@@ -23,7 +23,7 @@ En esta primera clase realizaremos una introducción al curso en la que plantear
 #### Conceptos
 - Estructura de p5.js
 - Sintáxis de JavaScript
-- Primeras formas: ellipse(), rect() y triang()
+- Primeras figuras: ellipse(), rect() y triang()
 - Color: RGB, HSB, colorMode()
 - Funciones espaciales: push(), pop(), translate() y rotate()
 #### Referencias
