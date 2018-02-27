@@ -80,5 +80,5 @@ La última clase del curso será dividida en tres partes:
 - [*The Coding Train*, tutorial de YouTube de Daniel Shiffman](https://www.youtube.com/user/shiffman)
 
 ## Sobre el Instructor
-Guillermo Montecinos es educador, músico e ingeniero con base en Santiago. Su trabajo se enfoca en la construcción de experiencias sonoras inmersivas que evoquen y provoquen a la audiencia a partir de la sonoridad y visualidad. Es co-fundador de Coded, Escuela de Artes y Oficios Electrónicos (Santiago, Chile) y graduado de la School for Poetic Computation (NY).<br> 
+Guillermo Montecinos es educador, músico e ingeniero con base en Santiago. Su trabajo se enfoca en la construcción de experiencias sonoras inmersivas que evoquen y provoquen a la audiencia a partir de la sonoridad y visualidad. Es co-fundador de [Coded, Escuela de Artes y Oficios Electrónicos](http://codedescuela.cl) (Santiago, Chile) y graduado de la [School for Poetic Computation](http://sfpc.io) (NY).<br> 
 http://guillemontecinos.cl/
