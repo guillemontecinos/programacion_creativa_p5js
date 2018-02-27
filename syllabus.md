@@ -61,7 +61,7 @@ En esta clase exploraremos las posibilidades que nos entrega p5.js para trabajar
 - Importación de imágenes a p5.js
 - Aplicación de filtros en p5.js
 - Importación de pixeles
-- Manipulacin de pixeles
+- Manipulación de pixeles
 - Captura de video mediante webcam
 - Procesamiento de imagen en vivo
 #### Conceptos
