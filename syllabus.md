@@ -65,7 +65,7 @@ En esta clase exploraremos las posibilidades que nos entrega p5.js para trabajar
 - Captura de video mediante webcam
 - Procesamiento de imagen en vivo
 #### Conceptos
-- Funciones: [loadImage()](https://p5js.org/es/reference/#/p5/loadImage), [createCapture()](https://p5js.org/es/reference/#/p5/createCapture), loadPixels(), updatePixels(), get() y set() 
+- Funciones: [loadImage()](https://p5js.org/es/reference/#/p5/loadImage), [createCapture()](https://p5js.org/es/reference/#/p5/createCapture), [loadPixels()](https://p5js.org/es/reference/#/p5/loadPixels), [updatePixels()](https://p5js.org/es/reference/#/p5/updatePixels), [get()](https://p5js.org/es/reference/#/p5/get) y [set()](https://p5js.org/es/reference/#/p5/set)
 #### Referencias
 ## Módulo 3 - Proyecto
 ### Clase 5 (26 de marzo)
