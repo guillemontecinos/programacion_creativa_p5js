@@ -23,9 +23,9 @@ En esta primera clase realizaremos una introducción al curso en la que plantear
 #### Conceptos
 - Estructura de p5.js
 - Sintáxis de JavaScript
-- Primeras figuras: ellipse(), rect() y triang()
-- Color: RGB, HSB, colorMode()
-- Funciones espaciales: push(), pop(), translate() y rotate()
+- Primeras figuras: [ellipse()](https://p5js.org/es/reference/#/p5/ellipse), [rect()](https://p5js.org/es/reference/#/p5/rect) y [triangle()](https://p5js.org/es/reference/#/p5/triangle)
+- Color: RGB, HSB, [colorMode()](https://p5js.org/es/reference/#/p5/colorMode)
+- Funciones espaciales: [push()](https://p5js.org/es/reference/#/p5/push), [pop()](https://p5js.org/es/reference/#/p5/pop), [translate()](https://p5js.org/es/reference/#/p5/translate) y [rotate()](https://p5js.org/es/reference/#/p5/rotate)
 #### Referencias
 - [Sesión 2. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller_p5js_01/sesiones/sesion_2/slides/#/)
 ### Clase 2: Arreglos, Bucles *For* y Condicionales *If* (14 de marzo)
@@ -52,8 +52,8 @@ En esta clase revisaremos pasajes de la obra de los diseñadores Muriel Cooper y
 - Animación de Texto
 - Recode: *Japanese Poster*, de John Maeda
 #### Conceptos
-- Función preload()
-- Métodos de objeto *font*: textBounds() y textToPints()
+- Función [preload()](https://p5js.org/es/reference/#/p5/preload)
+- Métodos de objeto *font*: [textBounds()](https://p5js.org/es/reference/#/p5.Font/textBounds) y [textToPints()](https://p5js.org/es/reference/#/p5.Font/textToPoints)
 #### Referencias
 - [Sesión 4. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller_p5js_01/sesiones/sesion_4/slides/#/)
 ### Clase 4: Video y Sonido en p5.js (21 de marzo)
@@ -65,7 +65,7 @@ En esta clase exploraremos las posibilidades que nos entrega p5.js para trabajar
 - Captura de video mediante webcam
 - Procesamiento de imagen en vivo
 #### Conceptos
-- Funciones: loadImage(), createCapture(), loadPixels(), updatePixels(), get() y set()
+- Funciones: [loadImage()](https://p5js.org/es/reference/#/p5/loadImage), [createCapture()](https://p5js.org/es/reference/#/p5/createCapture), loadPixels(), updatePixels(), get() y set() 
 #### Referencias
 ## Módulo 3 - Proyecto
 ### Clase 5 (26 de marzo)
