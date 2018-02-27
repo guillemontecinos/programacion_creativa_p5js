@@ -2,7 +2,7 @@
 Programa del curso de Introducción a la programación creativa en [p5.js](https://p5js.org/es) organizado por [Escuela Coded](http://codedescuela.cl), [Productora Suricata](https://productorasuricata.com/) y [Centro La Planta](http://centrolaplanta.com/).
 El taller será dictado por Guillermo Montecinos - profesor de Escuela Coded -  en Centro La Planta entre los días 12 y 28 de marzo de 2018.
 ## Sobre el Curso
-Curso de introducción a la programación creativa que busca explorar las posibilidades de los nuevos medios digitales en contextos artísticos. Como una primera aproximación, durante 6 sesiones revisaremos las nociones elementales de programación que permitan la construcción de sistemas complejos, utilizando el código como herramienta facilitadora de la expresión de la creatividad.
+Curso de introducción a la programación creativa que busca explorar las posibilidades de los nuevos medios digitales en contextos artísticos. Durante 6 sesiones revisaremos las nociones elementales de programación que permitan la construcción de sistemas complejos, utilizando el código como herramienta facilitadora de la expresión de la creatividad.
 
 Analizaremos referentes de las artes visuales latinoamericanas y del diseño norteamericano a través de la reinterpretación de algunas de sus obras mediante el lenguaje de programación -inspirados por el proyecto [ReCode](http://recodeproject.com/)-. De esta manera, el código será una herramienta al servicio de la creatividad desde el cual podremos analizar una obra, para luego experimentar con los elementos obtenidos de ella.
 
