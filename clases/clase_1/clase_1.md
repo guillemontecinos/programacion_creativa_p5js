@@ -16,6 +16,9 @@ Guillermo Montecinos es educador, músico e ingeniero eléctrico (MSc) con base 
 http://guillemontecinos.cl/
 
 ## Presentación del Curso, objetivos y alcances
+En este curso abordaremos la programación desde un enfoque creativo, lo que entenderemos como la escritura de programas computacionales con fines estéticos o artísticos. La programación es un lenguaje diseñado por el hombre para ordenar a las máquinas - computadores, micro controladores, celulares, etc - la ejecución de secuencias lógicas, o algoritmos. Si bien la programación es un campo altamente explotado en disversas industrias, debido principalmente a la diversidad de procesos que pueden ser automatizados, es un lenjuage de expresión que rara vez es ligado a procesos creativos.
+
+La programación creativa permite a músicos, artistas, diseñadores, y personas creativas en general, utilizar la potencialidad que nos entrega la computación y ponerla en pos de fines estéticos. Es, finalmente, una reapropiación de la tecnología, un acto subversivo en que resignificamos y repensamos la programación desde un nuevo enfoque.
 ## Introducción a las Artes Mediales, por [Aarón Montoya-Moraga](http://montoyamoraga.io/)
 ## Introducción a p5.js
 ## Entorno de programación: editor web
