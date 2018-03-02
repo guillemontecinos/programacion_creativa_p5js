@@ -24,7 +24,8 @@ La programación creativa permite a músicos, artistas, diseñadores, y personas
 [Comunidad p5.js](https://p5js.org/es/community/).
 ## Entorno de programación: editor web
 [Editor web p5.js](https://alpha.editor.p5js.org/)
-## Referencia web de [p5.js](https://p5js.org/es/reference/)
+## Referencia web 
+[Referencia web de p5.js](https://p5js.org/es/reference/)
 ## [Carmen Herrera](https://en.wikipedia.org/wiki/Carmen_Herrera), arte abstracto
 ## Recode: Green & Orange
 ## Tarea
