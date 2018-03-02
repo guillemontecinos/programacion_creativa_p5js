@@ -21,7 +21,9 @@ En este curso abordaremos la programación desde un enfoque creativo, lo que ent
 La programación creativa permite a músicos, artistas, diseñadores, y personas creativas en general, utilizar la potencialidad que nos entrega la computación y ponerla en pos de fines estéticos. Es, finalmente, una reapropiación de la tecnología, un acto subversivo en que resignificamos y repensamos la programación desde un nuevo enfoque.
 ## Introducción a las Artes Mediales, por [Aarón Montoya-Moraga](http://montoyamoraga.io/)
 ## Introducción a p5.js
+[Comunidad p5.js](https://p5js.org/es/community/).
 ## Entorno de programación: editor web
+[Editor web p5.js](https://alpha.editor.p5js.org/)
 ## Referencia web de [p5.js](https://p5js.org/es/reference/)
 ## [Carmen Herrera](https://en.wikipedia.org/wiki/Carmen_Herrera), arte abstracto
 ## Recode: Green & Orange
