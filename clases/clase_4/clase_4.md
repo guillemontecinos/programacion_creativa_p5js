@@ -1,5 +1,6 @@
 # Clase 4: Imagen y Video en p5.js (21 de marzo)
 En esta clase exploraremos las posibilidades que nos entrega p5.js para trabajar con imágenes y video. Comenzaremos importando una imagen al navegador web, la cual manipularemos y filtraremos utilizando las funciones nativas de p5.js. Posteriormente comprenderemos la imagen como una matriz de pixeles, los cuales pueden ser importados y manipulados por separado, creando filtros más complejos sobre la imagen fija. Luego aprenderemos a importar video desde la webcam utilizando el capturador de p5.js, el que desplegaremos en el navegador web y manipularemos en tiempo real.
+- Referentes: Graciela iturbide y Sergio Larraín
 - Importación de imágenes a p5.js
 - Aplicación de filtros en p5.js
 - Importación de pixeles
