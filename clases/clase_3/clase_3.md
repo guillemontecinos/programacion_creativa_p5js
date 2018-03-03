@@ -10,4 +10,5 @@ En esta clase revisaremos pasajes de la obra de los diseñadores Muriel Cooper y
 - Función [preload()](https://p5js.org/es/reference/#/p5/preload)
 - Métodos de objeto *font*: [textBounds()](https://p5js.org/es/reference/#/p5.Font/textBounds) y [textToPints()](https://p5js.org/es/reference/#/p5.Font/textToPoints)
 #### Referencias
+- [Capítulo 7. *Introducción a p5.js, McCarthy, Reas & Fry*](https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.2.pdf)
 - [Sesión 4. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_4/slides/#/)
