@@ -11,4 +11,5 @@ En esta clase volveremos a revisar y discutir el contexto de las artes mediales,
 - Bucles For
 - Condicional if
 #### Referencias
+- [Capítulos 4 y 5. *Introducción a p5.js, McCarthy, Reas & Fry*](https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.2.pdf)
 - [Sesión 3. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_3/slides/#/)
