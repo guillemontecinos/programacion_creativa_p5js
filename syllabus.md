@@ -27,7 +27,7 @@ En esta primera clase realizaremos una introducción al curso en la que plantear
 - Color: RGB, HSB, [colorMode()](https://p5js.org/es/reference/#/p5/colorMode)
 - Funciones espaciales: [push()](https://p5js.org/es/reference/#/p5/push), [pop()](https://p5js.org/es/reference/#/p5/pop), [translate()](https://p5js.org/es/reference/#/p5/translate) y [rotate()](https://p5js.org/es/reference/#/p5/rotate)
 #### Referencias
-- [Sesión 2. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller_p5js_01/sesiones/sesion_2/slides/#/)
+- [Sesión 2. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_2/slides/#/)
 - [*The 100 years show*](https://www.netflix.com/title/80106609), documental sobre Carmen Herrera
 ### Clase 2: Arreglos, Bucles *For* y Condicionales *If* (14 de marzo)
 En esta clase volveremos a revisar y discutir el contexto de las artes mediales, poniendo el foco esta vez en las artes interactivas en entornos web. Posteriormente revisaremos la obra concreta del artista brasileño, particularmente de su ejercicio denominado *Metaesquema* el cual utilizaremos como modelo para analizar y comprender la lógica algorítmica de sus composiciones. Finalmente llevaremos al código uno de sus ejercicios de Metaesquema, a través del cual revisaremos conceptos elementales de programación como bucles for, condicionales y arreglos de variables.
@@ -42,7 +42,7 @@ En esta clase volveremos a revisar y discutir el contexto de las artes mediales,
 - Bucles For
 - Condicional if
 #### Referencias
-- [Sesión 3. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller_p5js_01/sesiones/sesion_3/slides/#/)
+- [Sesión 3. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_3/slides/#/)
 ## Módulo 2 - Medios: texto, imagen y video
 ### Clase 3: Texto e Imágenes (19 de marzo)
 En esta clase revisaremos pasajes de la obra de los diseñadores Muriel Cooper y John Maeda, ambos del [MIT Media Lab](https://www.media.mit.edu/), con el objeto de esbozar una idea del rol de la tipografía en el arte y diseño algorítmicos. Posteriormente, replicaremos una obra de uno de estos exponentes, con el objeto de adentrarnos en el uso de la tipografía como un objeto de diseño en p5.js. Para ello revisaremos y aplicaremos funciones que nos facilitarán el trabajo espacial de texto.
@@ -56,7 +56,7 @@ En esta clase revisaremos pasajes de la obra de los diseñadores Muriel Cooper y
 - Función [preload()](https://p5js.org/es/reference/#/p5/preload)
 - Métodos de objeto *font*: [textBounds()](https://p5js.org/es/reference/#/p5.Font/textBounds) y [textToPints()](https://p5js.org/es/reference/#/p5.Font/textToPoints)
 #### Referencias
-- [Sesión 4. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller_p5js_01/sesiones/sesion_4/slides/#/)
+- [Sesión 4. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_4/slides/#/)
 ### Clase 4: Video y Sonido en p5.js (21 de marzo)
 En esta clase exploraremos las posibilidades que nos entrega p5.js para trabajar con imágenes y video. Comenzaremos importando una imagen al navegador web, la cual manipularemos y filtraremos utilizando las funciones nativas de p5.js. Posteriormente comprenderemos la imagen como una matriz de pixeles, los cuales pueden ser importados y manipulados por separado, creando filtros más complejos sobre la imagen fija. Luego aprenderemos a importar video desde la webcam utilizando el capturador de p5.js, el que desplegaremos en el navegador web y manipularemos en tiempo real.
 - Importación de imágenes a p5.js
