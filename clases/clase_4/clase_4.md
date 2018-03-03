@@ -9,3 +9,4 @@ En esta clase exploraremos las posibilidades que nos entrega p5.js para trabajar
 #### Conceptos
 - Funciones: [loadImage()](https://p5js.org/es/reference/#/p5/loadImage), [createCapture()](https://p5js.org/es/reference/#/p5/createCapture), [loadPixels()](https://p5js.org/es/reference/#/p5/loadPixels), [updatePixels()](https://p5js.org/es/reference/#/p5/updatePixels), [get()](https://p5js.org/es/reference/#/p5/get) y [set()](https://p5js.org/es/reference/#/p5/set)
 #### Referencias
+- [Capítulo 7. *Introducción a p5.js, McCarthy, Reas & Fry*](https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.2.pdf)
