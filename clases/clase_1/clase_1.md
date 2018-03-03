@@ -40,5 +40,5 @@ Reprogramar una obra de Herrera aplicando los conceptos revisados. Experimentar 
 - Color: RGB, HSB, [colorMode()](https://p5js.org/es/reference/#/p5/colorMode)
 - Funciones espaciales: [push()](https://p5js.org/es/reference/#/p5/push), [pop()](https://p5js.org/es/reference/#/p5/pop), [translate()](https://p5js.org/es/reference/#/p5/translate) y [rotate()](https://p5js.org/es/reference/#/p5/rotate)
 #### Referencias
-- [Sesión 2. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller_p5js_01/sesiones/sesion_2/slides/#/)
+- [Sesión 2. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_2/slides/#/)
 - [*The 100 years show*](https://www.netflix.com/title/80106609), documental sobre Carmen Herrera
