@@ -27,6 +27,7 @@ La programación creativa permite a músicos, artistas, diseñadores, y personas
 ## Referencia web 
 [Referencia web de p5.js](https://p5js.org/es/reference/)
 ## [Carmen Herrera](https://en.wikipedia.org/wiki/Carmen_Herrera), arte abstracto
+- [Documental *"The 100 years show"*](https://www.netflix.com/title/80106609), documental sobre Carmen Herrera
 ## Recode: Green & Orange
 https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_1/ejemplos/herrera_carmen-green_and_orange/documentation/docu_green_and_orange.md
 ## Tarea
@@ -44,4 +45,3 @@ Reprogramar una obra de Herrera aplicando los conceptos revisados. Experimentar 
 - [Sesión 2. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_2/slides/#/)
 - [Modelo de color HSB (inglés)](http://www.tomjewett.com/colors/hsb.html)
 - [Modelo de color HSB (español - Wikipedia)](https://es.wikipedia.org/wiki/Modelo_de_color_HSV)
-- [*The 100 years show*](https://www.netflix.com/title/80106609), documental sobre Carmen Herrera
