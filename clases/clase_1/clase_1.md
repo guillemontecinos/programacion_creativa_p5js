@@ -29,7 +29,7 @@ La programación creativa permite a músicos, artistas, diseñadores, y personas
 - [Green & Orange, Carmen Herrera](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_1/ejemplos/herrera_carmen-green_and_orange/documentation/docu_green_and_orange.md)
 - [Ejemplos Clase 1](https://github.com/guillemontecinos/programacion_creativa_p5js/tree/master/clases/clase_1/ejemplos)
 ## Tarea
-Reprogramar una obra de Herrera aplicando los conceptos revisados. Experimentar con variaciones e integración de otras herramientas
+Reprogramar una obra de Herrera aplicando los conceptos revisados. Experimentar con variaciones e integración de otras herramientas.
 #### Conceptos
 - Estructura de p5.js
 - Sintáxis de JavaScript
