@@ -42,4 +42,5 @@ Reprogramar una obra de Herrera aplicando los conceptos revisados. Experimentar 
 #### Referencias
 - [Capítulos 1 - 4. *Introducción a p5.js, McCarthy, Reas & Fry*](https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.2.pdf)
 - [Sesión 2. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_2/slides/#/)
+- [Modelo de color HSB (inglés)](http://www.tomjewett.com/colors/hsb.html)
 - [*The 100 years show*](https://www.netflix.com/title/80106609), documental sobre Carmen Herrera
