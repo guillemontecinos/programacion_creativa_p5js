@@ -47,4 +47,4 @@ Reprogramar una obra de Herrera aplicando los conceptos revisados. Experimentar 
 - [Comunidad p5.js](https://p5js.org/es/community/)
 - [Editor web p5.js](https://alpha.editor.p5js.org/)
 - [Referencia web de p5.js](https://p5js.org/es/reference/)
-
+- [Timer 45 segundos](https://www.online-stopwatch.com/timer/45second/)
