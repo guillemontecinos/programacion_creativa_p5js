@@ -20,12 +20,6 @@ En este curso abordaremos la programación desde un enfoque creativo, lo que ent
 
 La programación creativa permite a músicos, artistas, diseñadores, y personas creativas en general, utilizar la potencialidad que nos entrega la computación y ponerla en pos de fines estéticos. Es, finalmente, una reapropiación de la tecnología, un acto subversivo en que resignificamos y repensamos la programación desde un nuevo enfoque.
 ## Introducción a las Artes Mediales, por [Aarón Montoya-Moraga](http://montoyamoraga.io/)
-## Introducción a p5.js
-[Comunidad p5.js](https://p5js.org/es/community/).
-## Entorno de programación: editor web
-[Editor web p5.js](https://alpha.editor.p5js.org/)
-## Referencia web 
-[Referencia web de p5.js](https://p5js.org/es/reference/)
 ## [Carmen Herrera](https://en.wikipedia.org/wiki/Carmen_Herrera), arte abstracto
 - [Documental *"The 100 years show"* (Netflix)](https://www.netflix.com/title/80106609)
 ## Recode: Green & Orange
@@ -45,3 +39,7 @@ Reprogramar una obra de Herrera aplicando los conceptos revisados. Experimentar 
 - [Sesión 2. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_2/slides/#/)
 - [Modelo de color HSB (inglés)](http://www.tomjewett.com/colors/hsb.html)
 - [Modelo de color HSB (español - Wikipedia)](https://es.wikipedia.org/wiki/Modelo_de_color_HSV)
+- [Comunidad p5.js](https://p5js.org/es/community/).
+- [Editor web p5.js](https://alpha.editor.p5js.org/)
+- [Referencia web de p5.js](https://p5js.org/es/reference/)
+
