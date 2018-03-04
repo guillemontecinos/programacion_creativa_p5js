@@ -36,13 +36,14 @@ Reprogramar una obra de Herrera aplicando los conceptos revisados. Experimentar 
 - Primeras figuras: [ellipse()](https://p5js.org/es/reference/#/p5/ellipse), [rect()](https://p5js.org/es/reference/#/p5/rect) y [triangle()](https://p5js.org/es/reference/#/p5/triangle)
 - Color: RGB, HSB, [colorMode()](https://p5js.org/es/reference/#/p5/colorMode)
 - Funciones espaciales: [push()](https://p5js.org/es/reference/#/p5/push), [pop()](https://p5js.org/es/reference/#/p5/pop), [translate()](https://p5js.org/es/reference/#/p5/translate) y [rotate()](https://p5js.org/es/reference/#/p5/rotate)
+- Variables internas: [mouseX](https://p5js.org/reference/#/p5/mouseX), [mouseY](https://p5js.org/reference/#/p5/mouseY), [width](https://p5js.org/reference/#/p5/width), [height](https://p5js.org/reference/#/p5/height)
 #### Referencias
 - [Capítulos 1 - 4. *Introducción a p5.js, McCarthy, Reas & Fry*](https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.2.pdf)
 - [Sesión 2. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_2/slides/#/)
 - [Modelo de color HSB (inglés)](http://www.tomjewett.com/colors/hsb.html)
 - [Modelo de color HSB (español - Wikipedia)](https://es.wikipedia.org/wiki/Modelo_de_color_HSV)
 - [Ángulos Radianes](https://es.wikipedia.org/wiki/Radi%C3%A1n)
-- [Comunidad p5.js](https://p5js.org/es/community/).
+- [Comunidad p5.js](https://p5js.org/es/community/)
 - [Editor web p5.js](https://alpha.editor.p5js.org/)
 - [Referencia web de p5.js](https://p5js.org/es/reference/)
 
