@@ -30,6 +30,7 @@ La programación creativa permite a músicos, artistas, diseñadores, y personas
 - [Ejemplos Clase 1](https://github.com/guillemontecinos/programacion_creativa_p5js/tree/master/clases/clase_1/ejemplos)
 ## Tarea
 Reprogramar una obra de Herrera aplicando los conceptos revisados. Experimentar con variaciones e integración de otras herramientas.
+## Apéndice
 #### Conceptos
 - Estructura de p5.js
 - Sintáxis de JavaScript
