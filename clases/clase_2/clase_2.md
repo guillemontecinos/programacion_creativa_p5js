@@ -6,7 +6,7 @@ En esta clase volveremos a revisar y discutir el contexto de las artes mediales,
 ## Hélio Oiticica
 - [Hélio Oiticica, Wikipedia español](https://es.wikipedia.org/wiki/H%C3%A9lio_Oiticica)
 ## Recode: Metaesquema
-- [Metaesquuema, Hélio Oiticica](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_2/ejemplos/oiticica_helio_metaesquema/documentation/docu_metaesquema.md)
+- [Metaesquema, Hélio Oiticica](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_2/ejemplos/oiticica_helio_metaesquema/documentation/docu_metaesquema.md)
 ## Proyecto Final
 #### Conceptos
 - Variables
