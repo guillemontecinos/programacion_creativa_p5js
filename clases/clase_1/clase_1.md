@@ -37,6 +37,7 @@ Reprogramar una obra de Herrera aplicando los conceptos revisados. Experimentar 
 - Primeras figuras: [ellipse()](https://p5js.org/es/reference/#/p5/ellipse), [rect()](https://p5js.org/es/reference/#/p5/rect) y [triangle()](https://p5js.org/es/reference/#/p5/triangle)
 - Color: RGB, HSB, [colorMode()](https://p5js.org/es/reference/#/p5/colorMode)
 - Funciones espaciales: [push()](https://p5js.org/es/reference/#/p5/push), [pop()](https://p5js.org/es/reference/#/p5/pop), [translate()](https://p5js.org/es/reference/#/p5/translate) y [rotate()](https://p5js.org/es/reference/#/p5/rotate)
+- Función [map()](https://p5js.org/es/reference/#/p5/map)
 - Variables internas: [mouseX](https://p5js.org/reference/#/p5/mouseX), [mouseY](https://p5js.org/reference/#/p5/mouseY), [width](https://p5js.org/reference/#/p5/width), [height](https://p5js.org/reference/#/p5/height)
 #### Referencias
 - [Capítulos 1 - 4. *Introducción a p5.js, McCarthy, Reas & Fry*](https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.2.pdf)
