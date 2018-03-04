@@ -27,7 +27,7 @@ La programación creativa permite a músicos, artistas, diseñadores, y personas
 ## Referencia web 
 [Referencia web de p5.js](https://p5js.org/es/reference/)
 ## [Carmen Herrera](https://en.wikipedia.org/wiki/Carmen_Herrera), arte abstracto
-- [Documental *"The 100 years show"*](https://www.netflix.com/title/80106609), documental sobre Carmen Herrera
+- [Documental *"The 100 years show"* (Netflix)](https://www.netflix.com/title/80106609)
 ## Recode: Green & Orange
 https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_1/ejemplos/herrera_carmen-green_and_orange/documentation/docu_green_and_orange.md
 ## Tarea
