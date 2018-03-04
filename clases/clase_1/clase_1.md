@@ -20,14 +20,13 @@ En este curso abordaremos la programación desde un enfoque creativo, lo que ent
 
 La programación creativa permite a músicos, artistas, diseñadores, y personas creativas en general, utilizar la potencialidad que nos entrega la computación y ponerla en pos de fines estéticos. Es, finalmente, una reapropiación de la tecnología, un acto subversivo en que resignificamos y repensamos la programación desde un nuevo enfoque.
 ## Introducción a las Artes Mediales, por [Aarón Montoya-Moraga](http://montoyamoraga.io/)
-## [Carmen Herrera](https://en.wikipedia.org/wiki/Carmen_Herrera), arte abstracto
+## Carmen Herrera, arte abstracto
+- [Carmen Herrera, Wikipedia en inglés](https://en.wikipedia.org/wiki/Carmen_Herrera)
 - [Documental *"The 100 years show"* (Netflix)](https://www.netflix.com/title/80106609)
 ## Recode: Green & Orange
 https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_1/ejemplos/herrera_carmen-green_and_orange/documentation/docu_green_and_orange.md
 ## Tarea
 Reprogramar una obra de Herrera aplicando los conceptos revisados. Experimentar con variaciones e integración de otras herramientas
-
-
 #### Conceptos
 - Estructura de p5.js
 - Sintáxis de JavaScript
