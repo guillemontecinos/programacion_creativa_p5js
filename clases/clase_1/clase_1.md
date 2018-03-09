@@ -23,8 +23,8 @@ La programación creativa permite a músicos, artistas, diseñadores, y personas
 ## Carmen Herrera, arte abstracto
 - [Carmen Herrera, Wikipedia en inglés](https://en.wikipedia.org/wiki/Carmen_Herrera)
 - [Documental *"The 100 years show"* (Netflix)](https://www.netflix.com/title/80106609)
-- [Arte Bstracto, Wikipedia en inglés](https://en.wikipedia.org/wiki/Abstract_art)
-- [Arte Bstracto, Wikipedia en español](https://es.wikipedia.org/wiki/Arte_abstracto)
+- [Arte Abstracto, Wikipedia en inglés](https://en.wikipedia.org/wiki/Abstract_art)
+- [Arte Abstracto, Wikipedia en español](https://es.wikipedia.org/wiki/Arte_abstracto)
 ## Recode: Green & Orange
 - [Green & Orange, Carmen Herrera](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_1/ejemplos/herrera_carmen-green_and_orange/documentation/docu_green_and_orange.md)
 - [Ejemplos Clase 1](https://github.com/guillemontecinos/programacion_creativa_p5js/tree/master/clases/clase_1/ejemplos)
