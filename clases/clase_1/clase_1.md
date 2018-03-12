@@ -29,8 +29,8 @@ La programación creativa permite a músicos, artistas, diseñadores, y personas
 - [Documental *"The 100 years show"* (Netflix)](https://www.netflix.com/title/80106609)
 - [Arte Abstracto, Wikipedia en inglés](https://en.wikipedia.org/wiki/Abstract_art)
 - [Arte Abstracto, Wikipedia en español](https://es.wikipedia.org/wiki/Arte_abstracto)
-- [Piet Mondrian](https://es.wikipedia.org/wiki/Piet_Mondrian)
 ### Otros Referentes
+- [Piet Mondrian](https://es.wikipedia.org/wiki/Piet_Mondrian)
 - [Ellsworth Kelly](https://en.wikipedia.org/wiki/Ellsworth_Kelly)
 - [Leon Polk Smith](https://en.wikipedia.org/wiki/Leon_Polk_Smith)
 - [Matilde Pérez](https://es.wikipedia.org/wiki/Matilde_P%C3%A9rez)
