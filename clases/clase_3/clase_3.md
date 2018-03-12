@@ -8,6 +8,7 @@ En esta clase revisaremos pasajes de la obra de los diseñadores Muriel Cooper y
 ## Importación de texto como un arreglo de puntos
 ## Animación de Texto
 ## Recode: *Japanese Poster*, de John Maeda
+- [Japanese Poster, John Maeda](https://github.com/guillemontecinos/recode/blob/master/maeda_john-morisawa/documentation/docu_morisawa.md)
 #### Conceptos
 - Función [preload()](https://p5js.org/es/reference/#/p5/preload)
 - Métodos de objeto *font*: [textBounds()](https://p5js.org/es/reference/#/p5.Font/textBounds) y [textToPints()](https://p5js.org/es/reference/#/p5.Font/textToPoints)
