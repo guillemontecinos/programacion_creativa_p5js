@@ -48,6 +48,7 @@ Reprogramar una obra de Herrera aplicando los conceptos revisados. Experimentar 
 #### Referencias
 - [Capítulos 1 - 4. *Introducción a p5.js, McCarthy, Reas & Fry*](https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.2.pdf)
 - [Sesión 2. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_2/slides/#/)
+- [Proyecto Recode](http://recodeproject.com/)
 - [Modelo de color HSB (inglés)](http://www.tomjewett.com/colors/hsb.html)
 - [Modelo de color HSB (español - Wikipedia)](https://es.wikipedia.org/wiki/Modelo_de_color_HSV)
 - [Ángulos Radianes](https://es.wikipedia.org/wiki/Radi%C3%A1n)
