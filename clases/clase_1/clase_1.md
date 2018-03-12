@@ -40,7 +40,7 @@ La programación creativa permite a músicos, artistas, diseñadores, y personas
 - [Black & Yellow Circles, Carmen Herrera](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-NA_black_and_yellow_circles/documentation/docu_NA_black_and_yellow_circles.md) (Nombre original no encontrado).
 - [Semáforo del Viento, Ramón Vergara Grez.](https://github.com/guillemontecinos/recode/blob/master/vergara_grez-semaforo-del-viento/documentation/docu_semaforo.md)
 ## Tarea
-Reprogramar una obra de Herrera aplicando los conceptos revisados. Experimentar con variaciones e integración de otras herramientas.
+Reprogramar una obra de Carmen Herrera aplicando los conceptos revisados. Experimentar con variaciones e integración de otras herramientas.
 ## Apéndice
 #### Conceptos
 - Estructura de p5.js
