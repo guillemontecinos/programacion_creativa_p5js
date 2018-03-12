@@ -1,10 +1,7 @@
 # Clase 1: Introducción a p5.js (12 de marzo)
 En esta primera clase realizaremos una introducción al curso en la que plantearemos las ideas que nos motivan a enseñar el uso de un *Software Libre* ([FLOSS](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)) como [p5.js](https://p5js.org/es). Luego discutiremos el contexto en que se desarrollan este tipo de herramientas de programación orientadas al arte. Posteriormente analizaremos el trabajo artístico de pintora cubana [Carmen Herrera](https://en.wikipedia.org/wiki/Carmen_Herrera), para finalmente reinterpretar en código una de sus obras a través de la cual revisaremos, aplicaremos y comprenderemos la estructura y funciones básicas de p5.js, la sintaxis elemental de JavaScript.
 
-## Apuntes Clase
-https://github.com/guillemontecinos
-
-## Presentación del instructor y [Escuela Coded](http://codedescuela.cl/)
+## Presentación del instructor y Escuela Coded
 Coded es una Escuela de Artes y Oficios Electrónicos con base en Santiago de Chile, fundada en el año 2017. 
 
 Coded está inspirada en principios feministas, pacifistas, y es un espacio colectivo e inclusivo, cuya principal labor es la de entregar herramientas técnicas y conceptuales que estimulen y favorezcan el desarrollo intelectual, cultural, artístico y social. 
@@ -29,9 +26,28 @@ La programación creativa permite a músicos, artistas, diseñadores, y personas
 * [Processing](http://processing.org/)
 * [p5.js](https://p5js.org/)
 * [Lauren McCarthy](http://lauren-mccarthy.com/)
+* [UCLA DMA](http://dma.ucla.edu/)
 * [Daniel Shiffman](http://shiffman.net/)
+* [NYU ITP](https://tisch.nyu.edu/itp)
 * [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+* [Ben Fry](http://benfry.com/)
+* [Fathom](https://fathom.info/)
+* [Casey Reas](http://reas.com/)
 * [Sam Lavigne](http://lav.io/)
+* [CODED](http://codedescuela.cl/)
+* [Natalia Cabrera](http://www.nataliacabrera.com/)
+* [Chrstian Oyarzún](http://error404.cl/)
+* [Natalia Cabrera](http://www.nataliacabrera.com/)
+* [Camila Colussi](https://www.camilacolussi.com/)
+* [Electros](http://www.loselectros.com/)
+* [openFrameworks](http://openframeworks.cc/)
+* [Sinestesia](http://www.sinestesia.cc/)
+* [Sergio Mora-Díaz](http://www.sergiomoradiaz.com/)
+* [Roy Macdonald](http://roymacdonald.github.io/)
+* [GitHub](https://github.com/)
+* [Cinder](https://libcinder.org/)
+* [Arduino](https://www.arduino.cc/)
+* [art-notes](https://github.com/montoyamoraga/art-notes)
 
 ## Introducción a p5.js
 - [Comunidad p5.js](https://p5js.org/es/community/)
