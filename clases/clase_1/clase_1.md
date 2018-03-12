@@ -23,8 +23,10 @@ La programación creativa permite a músicos, artistas, diseñadores, y personas
 ## Introducción a las Artes Mediales, por [Aarón Montoya-Moraga](http://montoyamoraga.io/)
 
 * [Processing Foundation](https://processingfoundation.org/)
+* [Processing Foundation Press](https://processingfoundation.press/)
 * [Processing](http://processing.org/)
 * [p5.js](https://p5js.org/)
+* [Libro Introducción a p5.js](https://github.com/processing/p5.js-getting-started-es)
 * [Lauren McCarthy](http://lauren-mccarthy.com/)
 * [UCLA DMA](http://dma.ucla.edu/)
 * [Daniel Shiffman](http://shiffman.net/)
