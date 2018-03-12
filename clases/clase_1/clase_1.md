@@ -20,6 +20,10 @@ En este curso abordaremos la programación desde un enfoque creativo, lo que ent
 
 La programación creativa permite a músicos, artistas, diseñadores, y personas creativas en general, utilizar la potencialidad que nos entrega la computación y ponerla en pos de fines estéticos. Es, finalmente, una reapropiación de la tecnología, un acto subversivo en que resignificamos y repensamos la programación desde un nuevo enfoque.
 ## Introducción a las Artes Mediales, por [Aarón Montoya-Moraga](http://montoyamoraga.io/)
+## Introducción a p5.js
+- [Comunidad p5.js](https://p5js.org/es/community/)
+- [Referencia web de p5.js](https://p5js.org/es/reference/)
+- [Editor web p5.js](https://alpha.editor.p5js.org/)
 ## Carmen Herrera, arte abstracto
 - [Carmen Herrera, Wikipedia en inglés](https://en.wikipedia.org/wiki/Carmen_Herrera)
 - [Documental *"The 100 years show"* (Netflix)](https://www.netflix.com/title/80106609)
@@ -47,7 +51,4 @@ Reprogramar una obra de Herrera aplicando los conceptos revisados. Experimentar 
 - [Modelo de color HSB (inglés)](http://www.tomjewett.com/colors/hsb.html)
 - [Modelo de color HSB (español - Wikipedia)](https://es.wikipedia.org/wiki/Modelo_de_color_HSV)
 - [Ángulos Radianes](https://es.wikipedia.org/wiki/Radi%C3%A1n)
-- [Comunidad p5.js](https://p5js.org/es/community/)
-- [Editor web p5.js](https://alpha.editor.p5js.org/)
-- [Referencia web de p5.js](https://p5js.org/es/reference/)
 - [Timer 45 segundos](https://www.online-stopwatch.com/timer/45second/)
