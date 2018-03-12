@@ -17,4 +17,6 @@ Durante este curso cada participante tendrá la posibilidad de desarrollar un pr
 #### Referencias
 - [Capítulos 4 y 5. *Introducción a p5.js, McCarthy, Reas & Fry*](https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.2.pdf)
 - [Sesión 3. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_3/slides/#/)
+- [Coordenadas Cartesianas](https://es.wikipedia.org/wiki/Coordenadas_cartesianas)
+- [Matemática Vectorial](https://es.wikipedia.org/wiki/Vector)
 - [Operador Módulo](https://es.wikipedia.org/wiki/Operaci%C3%B3n_m%C3%B3dulo)
