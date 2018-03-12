@@ -29,6 +29,8 @@ La programación creativa permite a músicos, artistas, diseñadores, y personas
 - [Documental *"The 100 years show"* (Netflix)](https://www.netflix.com/title/80106609)
 - [Arte Abstracto, Wikipedia en inglés](https://en.wikipedia.org/wiki/Abstract_art)
 - [Arte Abstracto, Wikipedia en español](https://es.wikipedia.org/wiki/Arte_abstracto)
+- [Ellsworth Kelly](https://en.wikipedia.org/wiki/Ellsworth_Kelly)
+- [Leon Polk Smith](https://en.wikipedia.org/wiki/Leon_Polk_Smith)
 ## Recode: Green & Orange
 - [Green & Orange, Carmen Herrera](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_1/ejemplos/herrera_carmen-green_and_orange/documentation/docu_green_and_orange.md)
 ### Otros ejemplos
