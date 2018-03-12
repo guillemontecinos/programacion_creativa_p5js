@@ -58,3 +58,5 @@ Reprogramar una obra de Carmen Herrera aplicando los conceptos revisados. Experi
 - [Modelo de color HSB (español - Wikipedia)](https://es.wikipedia.org/wiki/Modelo_de_color_HSV)
 - [Ángulos Radianes](https://es.wikipedia.org/wiki/Radi%C3%A1n)
 - [Timer 45 segundos](https://www.online-stopwatch.com/timer/45second/)
+#### Wifi
+![](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_1/wifi.jpeg)
