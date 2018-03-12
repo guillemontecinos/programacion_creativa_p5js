@@ -1,7 +1,7 @@
 # Clase 1: Planificación (20:00 - 22:00, 15 min. de break)
 ## Bloque 1 (20:00 - 20:40, 40 min)
 1. Presentación del instructor y Escuela Coded (5 min)
-2. Presentación Alumnos (15 min) (*9 alumnos en total: 7 inscritos + Natisú + Cami Colussi*)
+2. Presentación Alumnos (15 min) (*10 introducciones: 7 alumnos + Natisú + Cami Colussi + Nati Cabrera*)
 3. Presentación del Curso, objetivos y alcances (5 min)
 4. Introducción a las Artes Mediales, por Aarón Montoya-Moraga (15 min)
 
