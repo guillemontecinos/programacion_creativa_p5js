@@ -35,7 +35,7 @@ La programación creativa permite a músicos, artistas, diseñadores, y personas
 - [Leon Polk Smith](https://en.wikipedia.org/wiki/Leon_Polk_Smith)
 - [Matilde Pérez](https://es.wikipedia.org/wiki/Matilde_P%C3%A9rez)
 ## Recode: Green & Orange
-- [Green & Orange, Carmen Herrera](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_1/ejemplos/herrera_carmen-green_and_orange/documentation/docu_green_and_orange.md)
+- [Green & Orange, Carmen Herrera](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-green_and_orange/documentation/docu_green_and_orange.md)
 ### Otros ejemplos
 - [Black & Yellow Circles, Carmen Herrera](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-NA_black_and_yellow_circles/documentation/docu_NA_black_and_yellow_circles.md) (Nombre original no encontrado).
 - [Semáforo del Viento, Ramón Vergara Grez.](https://github.com/guillemontecinos/recode/blob/master/vergara_grez-semaforo-del-viento/documentation/docu_semaforo.md)
