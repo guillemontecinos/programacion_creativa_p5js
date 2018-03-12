@@ -27,7 +27,9 @@ La programación creativa permite a músicos, artistas, diseñadores, y personas
 - [Arte Abstracto, Wikipedia en español](https://es.wikipedia.org/wiki/Arte_abstracto)
 ## Recode: Green & Orange
 - [Green & Orange, Carmen Herrera](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_1/ejemplos/herrera_carmen-green_and_orange/documentation/docu_green_and_orange.md)
-- [Ejemplos Clase 1](https://github.com/guillemontecinos/programacion_creativa_p5js/tree/master/clases/clase_1/ejemplos)
+### Otros ejemplos
+- [Black & Yellow Circles, Carmen Herrera](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-NA_black_and_yellow_circles/documentation/docu_NA_black_and_yellow_circles.md) (Nombre original no encontrado).
+- [Semáforo del Viento, Ramón Vergara Grez.](https://github.com/guillemontecinos/recode/blob/master/vergara_grez-semaforo-del-viento/documentation/docu_semaforo.md)
 ## Tarea
 Reprogramar una obra de Herrera aplicando los conceptos revisados. Experimentar con variaciones e integración de otras herramientas.
 ## Apéndice
