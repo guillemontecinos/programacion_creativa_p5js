@@ -1,7 +1,7 @@
 # Clase 1: Introducción a p5.js (12 de marzo)
 En esta primera clase realizaremos una introducción al curso en la que plantearemos las ideas que nos motivan a enseñar el uso de un *Software Libre* ([FLOSS](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)) como [p5.js](https://p5js.org/es). Luego discutiremos el contexto en que se desarrollan este tipo de herramientas de programación orientadas al arte. Posteriormente analizaremos el trabajo artístico de pintora cubana [Carmen Herrera](https://en.wikipedia.org/wiki/Carmen_Herrera), para finalmente reinterpretar en código una de sus obras a través de la cual revisaremos, aplicaremos y comprenderemos la estructura y funciones básicas de p5.js, la sintaxis elemental de JavaScript.
 
-## Presentación del instructor y Escuela Coded
+## Presentación del instructor y [Escuela Coded](http://codedescuela.cl/)
 Coded es una Escuela de Artes y Oficios Electrónicos con base en Santiago de Chile, fundada en el año 2017. 
 
 Coded está inspirada en principios feministas, pacifistas, y es un espacio colectivo e inclusivo, cuya principal labor es la de entregar herramientas técnicas y conceptuales que estimulen y favorezcan el desarrollo intelectual, cultural, artístico y social. 
