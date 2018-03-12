@@ -1,10 +1,11 @@
 # Clase 1: Planificación (20:00 - 22:00, 15 min. de break)
-## Bloque 1 (20:00 - 20:50, 50 min)
-1. Presentación del instructor y Escuela Coded (10 min)
+## Bloque 1 (20:00 - 20:40, 40 min)
+1. Presentación del instructor y Escuela Coded (5 min)
 2. Presentación Alumnos (15 min) (*9 alumnos en total: 7 inscritos + Natisú + Cami Colussi*)
-3. Presentación del Curso, objetivos y alcances
+3. Presentación del Curso, objetivos y alcances (5 min)
 4. Introducción a las Artes Mediales, por Aarón Montoya-Moraga (15 min)
-5. Introducción a p5.js (10 min)
-## Bloque 2 (21:05 - 22:00)
-1. Carmen Herrera (15 min)
-2. Recode Orange and Blue (40 min)
+
+## Bloque 2 (20:55 - 22:00) (65 min)
+5. Carmen Herrera (15 min)
+6. Introducción a p5.js (15 min)
+7. Recode Orange and Blue (35 min)
