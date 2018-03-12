@@ -1,8 +1,7 @@
 # Clase 1: Planificación (20:00 - 22:00, 15 min. de break)
 ## Bloque 1 (20:00 - 20:50, 50 min)
 1. Presentación del instructor y Escuela Coded (10 min)
-2. Presentación Alumnos (15 min)
-- 9 alumnos en total: 7 inscritos + Natisú + Cami Colussi
+2. Presentación Alumnos (15 min) [9 alumnos en total: 7 inscritos + Natisú + Cami Colussi]
 3. Presentación del Curso, objetivos y alcances
 4. Introducción a las Artes Mediales, por Aarón Montoya-Moraga (15 min)
 5. Introducción a p5.js (10 min)
