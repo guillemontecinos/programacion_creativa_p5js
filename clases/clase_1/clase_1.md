@@ -13,7 +13,7 @@ Coded es una iniciativa abierta a personas de todas las edades, siendo al mismo 
 Directores Coded, Escuela de Artes y Oficios Electrónicos [Natalia Cabrera](http://www.nataliacabrera.com/), [Camila Colussi](https://www.camilacolussi.com/), [Guillermo Montecinos](http://guillemontecinos.cl/), [Aarón Montoya-Moraga](http://montoyamoraga.io), [Christian Oyarzún](http://error404.cl/).
 
 Guillermo Montecinos es educador, músico e ingeniero eléctrico (MSc) con base en Santiago. Su trabajo se enfoca en la construcción de experiencias sonoras inmersivas que evoquen y provoquen a la audiencia a partir de la sonoridad y visualidad. Es co-fundador de Coded, Escuela de Artes y Oficios Electrónicos (Santiago, Chile) y graduado de la School for Poetic Computation (NY).
-http://guillemontecinos.cl/
+http://guillemontecinos.cl/<br>
 gamontec@uc.cl
 
 ## Presentación del Curso, objetivos y alcances
