@@ -14,6 +14,7 @@ Directores Coded, Escuela de Artes y Oficios Electrónicos [Natalia Cabrera](htt
 
 Guillermo Montecinos es educador, músico e ingeniero eléctrico (MSc) con base en Santiago. Su trabajo se enfoca en la construcción de experiencias sonoras inmersivas que evoquen y provoquen a la audiencia a partir de la sonoridad y visualidad. Es co-fundador de Coded, Escuela de Artes y Oficios Electrónicos (Santiago, Chile) y graduado de la School for Poetic Computation (NY).
 http://guillemontecinos.cl/
+gamontec@uc.cl
 
 ## Presentación del Curso, objetivos y alcances
 En este curso abordaremos la programación desde un enfoque creativo, lo que entenderemos como la escritura de programas computacionales con fines estéticos o artísticos. La programación es un lenguaje diseñado por el hombre para ordenar a las máquinas - computadores, micro controladores, celulares, etc - la ejecución de secuencias lógicas, o algoritmos. Si bien la programación es un campo altamente explotado en disversas industrias, debido principalmente a la diversidad de procesos que pueden ser automatizados, es un lenjuage de expresión que rara vez es ligado a procesos creativos.
