@@ -85,7 +85,7 @@ Reprogramar una obra de Carmen Herrera aplicando los conceptos revisados. Experi
 - Función [map()](https://p5js.org/es/reference/#/p5/map)
 - Variables internas: [mouseX](https://p5js.org/reference/#/p5/mouseX), [mouseY](https://p5js.org/reference/#/p5/mouseY), [width](https://p5js.org/reference/#/p5/width), [height](https://p5js.org/reference/#/p5/height)
 #### Referencias
-- [Capítulos 1 - 4. *Introducción a p5.js, McCarthy, Reas & Fry*](https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.2.pdf)
+- [Capítulos 1 - 4. *Introducción a p5.js, McCarthy, Reas & Fry*](https://github.com/processing/p5.js-getting-started-es)
 - [Sesión 2. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_2/slides/#/)
 - [Proyecto Recode](http://recodeproject.com/)
 - [Modelo de color HSB (inglés)](http://www.tomjewett.com/colors/hsb.html)
