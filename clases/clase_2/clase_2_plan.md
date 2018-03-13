@@ -6,4 +6,4 @@
 
 ## Bloque 2 (20:55 - 22:00, 65 min)
 4. Hélio Oiticica (10 min)
-5. Recode Metaesquema (55 min)
+5. Recode Metaesquema (55 min) {5 min break entre medio}
