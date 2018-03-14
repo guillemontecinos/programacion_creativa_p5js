@@ -11,6 +11,12 @@ En esta clase volveremos a revisar y discutir el contexto de las artes mediales,
 - Variables: declaración y asignación
 - Animación: círculo sobre mouse y círculo a la derecha
 - Funciones
+## Github 0.0
+- Recorrido por la página
+- Lógica detrás de Github
+- Crear un repositorio
+- Qué es un repositorio
+- Crear archivos y hacer commit 
 ## Hélio Oiticica
 - [Hélio Oiticica, Wikipedia español](https://es.wikipedia.org/wiki/H%C3%A9lio_Oiticica)
 ## Recode: Metaesquema
