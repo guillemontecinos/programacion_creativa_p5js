@@ -20,7 +20,8 @@ En esta clase volveremos a revisar y discutir el contexto de las artes mediales,
 ## Hélio Oiticica
 - [Hélio Oiticica, Wikipedia español](https://es.wikipedia.org/wiki/H%C3%A9lio_Oiticica)
 ## Recode: Metaesquema
-- [Metaesquema, Hélio Oiticica](https://github.com/guillemontecinos/recode/blob/master/oiticica_helio_metaesquema/documentation/docu_metaesquema.md)
+- [Recode Metaesquema, Hélio Oiticica](https://github.com/guillemontecinos/recode/blob/master/oiticica_helio_metaesquema/documentation/docu_metaesquema.md)
+- [Metaesquema en Editor Web](https://alpha.editor.p5js.org/guillemontecinos/sketches/BJTJip8Yf)
 ## Proyecto Final
 Durante este curso cada participante tendrá la posibilidad de desarrollar un proyecto - personal o grupal - que sirva como instancia para explorar los conceptos de programación tratados, abriendo la posibilidad a una exploración más profunda. El proyecto es libre y deberá cumplir con el requisito de ser publicado en una página web. Las clases 5 y 6 serán destinadas a trabajar presencialmente en el proyecto, pero se insta a los participantes a desarrollar sus ideas desde este momento. Durante la última clase del curso los participantes presentarán sus trabajos a sus compañeros, instancia a la que asistirá uno o dos profesores invitados quienes darán retroalimentación a los alumnos.
 #### Conceptos
