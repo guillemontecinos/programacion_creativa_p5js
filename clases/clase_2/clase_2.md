@@ -9,7 +9,7 @@ En esta clase volveremos a revisar y discutir el contexto de las artes mediales,
 - Orden de ejecución del código
 - Sintaxis de JavaScript
 - Variables: declaración y asignación
-- Animación: círculo sobre mouse y crculo a la derecha
+- Animación: círculo sobre mouse y círculo a la derecha
 - Funciones
 ## Hélio Oiticica
 - [Hélio Oiticica, Wikipedia español](https://es.wikipedia.org/wiki/H%C3%A9lio_Oiticica)
