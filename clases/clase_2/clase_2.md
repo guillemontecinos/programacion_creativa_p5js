@@ -4,6 +4,7 @@ En esta clase volveremos a revisar y discutir el contexto de las artes mediales,
 ## Presentación y comentarios recode Carmen Herrera
 
 ## Repaso
+- Buenas Prácticas
 - Estructura p5.js
 - Orden de ejecución del código
 - Sintaxis de JavaScript
