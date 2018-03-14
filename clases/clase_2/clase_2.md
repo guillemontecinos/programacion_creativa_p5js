@@ -12,7 +12,7 @@ En esta clase volveremos a revisar y discutir el contexto de las artes mediales,
 - Animación: círculo sobre mouse y círculo a la derecha
 - Funciones
 ## Github 0.0
-- Recorrido por la página
+- Recorrido por <github.com>
 - Lógica detrás de Github
 - Crear un repositorio
 - Qué es un repositorio
