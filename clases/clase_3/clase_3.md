@@ -7,6 +7,7 @@ En esta clase revisaremos pasajes de la obra de los diseñadores Muriel Cooper y
 ## Uso de texto y fuentes en p5.js
 - Escribir texto utilizando función [text()](https://p5js.org/reference/#/p5/text)
 - Tamaño y fuente utilizando funciones [textSize()](https://p5js.org/reference/#/p5/textSize) y [textFont()](https://p5js.org/reference/#/p5/textFont)
+- Importación de funente utilizando [loadFont()](https://p5js.org/reference/#/p5/loadFont)
 - Descargar fuente [helvetica](https://github.com/guillemontecinos/recode/blob/master/maeda_john-morisawa/assets/helvetica.otf)
 ## Importación de texto como un arreglo de puntos
 ## Animación de Texto
