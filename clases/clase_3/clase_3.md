@@ -5,6 +5,7 @@ En esta clase revisaremos pasajes de la obra de los diseñadores Muriel Cooper y
 - [Google Chrome Web Server (Extensión)](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
 ## Muriel Cooper y John Maeda: tipografía y diseño
 ## Uso de texto y fuentes en p5.js
+- Escribir texto utilizando funcin [text()](https://p5js.org/reference/#/p5/text)
 - Descargar fuente [helvetica](https://github.com/guillemontecinos/recode/blob/master/maeda_john-morisawa/assets/helvetica.otf)
 ## Importación de texto como un arreglo de puntos
 ## Animación de Texto
