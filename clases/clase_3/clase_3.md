@@ -1,9 +1,15 @@
 # Clase 3: Texto en p5.js (19 de marzo)
 En esta clase revisaremos pasajes de la obra de los diseñadores Muriel Cooper y John Maeda, ambos del [MIT Media Lab](https://www.media.mit.edu/), con el objeto de esbozar una idea del rol de la tipografía en el arte y diseño algorítmicos. Posteriormente, replicaremos una obra de uno de estos exponentes, con el objeto de adentrarnos en el uso de la tipografía como un objeto de diseño en p5.js. Para ello revisaremos y aplicaremos funciones que nos facilitarán el trabajo espacial de texto.
 ## Presentación y comentarios recode Hélio Oiticica
+## Motivación: Otros Entornos
+- [A-frame](https://aframe.io)
+- [three.js](https://threejs.org)
 ## Correr p5.js desde servidor local
 - [Google Chrome Web Server (Extensión)](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
 ## Muriel Cooper y John Maeda: tipografía y diseño
+- [Muriel Cooper](https://en.wikipedia.org/wiki/Muriel_Cooper)
+- [John Maeda, Wikipedia](https://es.wikipedia.org/wiki/John_Maeda)
+- [John Maeda, Studio](https://maedastudio.com/)
 ## Uso de texto y fuentes en p5.js
 - Escribir texto utilizando función [text()](https://p5js.org/reference/#/p5/text)
 - Tamaño y fuente utilizando funciones [textSize()](https://p5js.org/reference/#/p5/textSize) y [textFont()](https://p5js.org/reference/#/p5/textFont)
