@@ -19,4 +19,6 @@ En esta clase revisaremos pasajes de la obra de los diseñadores Muriel Cooper y
 #### Referencias
 - [Capítulo 7. *Introducción a p5.js, McCarthy, Reas & Fry*](https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.2.pdf)
 - [Sesión 4. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_4/slides/#/)
+- [Curva Paramétrica](https://es.wikipedia.org/wiki/Ecuaci%C3%B3n_param%C3%A9trica)
+- [Curvas de Lissajous](https://es.wikipedia.org/wiki/Curva_de_Lissajous)
 
