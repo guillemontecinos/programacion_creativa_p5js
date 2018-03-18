@@ -19,6 +19,9 @@ En esta clase revisaremos pasajes de la obra de los diseñadores Muriel Cooper y
 ## Animación de Texto
 ## Recode: *Japanese Poster*, de John Maeda
 - [Japanese Poster, John Maeda](https://github.com/guillemontecinos/recode/blob/master/maeda_john-morisawa/documentation/docu_morisawa.md)
+## Tarea
+Programar un *sketch* en el que se explore el uso de la tipografía como objeto de diseño. Utilizar a Muriel Cooper y John Maeda como referentes.
+## Apéndice
 #### Conceptos
 - Función [preload()](https://p5js.org/es/reference/#/p5/preload)
 - Métodos de objeto *font*: [textBounds()](https://p5js.org/es/reference/#/p5.Font/textBounds) y [textToPints()](https://p5js.org/es/reference/#/p5.Font/textToPoints)
