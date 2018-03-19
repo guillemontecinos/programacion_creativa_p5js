@@ -7,6 +7,7 @@ En esta clase revisaremos pasajes de la obra de los diseñadores Muriel Cooper y
 ## Motivación: Otros Entornos
 - [A-frame](https://aframe.io)
 - [three.js](https://threejs.org)
+- [AR.js](https://github.com/jeromeetienne/AR.js#try-it-on-mobile)
 ## Correr p5.js desde servidor local
 - [Google Chrome Web Server (Extensión)](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
 ## Muriel Cooper y John Maeda: tipografía y diseño
