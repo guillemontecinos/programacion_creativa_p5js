@@ -4,9 +4,8 @@ En esta clase exploraremos las posibilidades que nos entrega p5.js para trabajar
 ## Referentes: Graciela Iturbide y Sergio Larraín
 - [Graciela Iturbide](https://es.wikipedia.org/wiki/Graciela_Iturbide)
 - [Sergio Larraín](https://es.wikipedia.org/wiki/Sergio_Larra%C3%ADn)
-## Importación de imágenes a p5.js
+## Importación de imágenes, tintura y filtros a p5.js
 - [Ejemplo 1](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_4/clase_4_ejemplos/clase_4_ejemplo_1.js)
-## Aplicación de filtros en p5.js
 ## Importación de pixeles
 ## Manipulación de pixeles
 ## Captura de video mediante webcam
