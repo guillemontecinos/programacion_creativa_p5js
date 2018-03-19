@@ -35,7 +35,7 @@ Durante este curso cada participante tendrá la posibilidad de desarrollar un pr
 - Condicional [if](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_3/slides/#/13)
 - [randomSeed()](https://p5js.org/es/reference/#/p5/randomSeed)
 #### Referencias
-- [Capítulos 4 y 5. *Introducción a p5.js, McCarthy, Reas & Fry*](https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.2.pdf)
+- [Capítulos 4 y 5. *Introducción a p5.js, McCarthy, Reas & Fry*](https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.3.pdf)
 - [Sesión 3. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_3/slides/#/)
 - [*Hello World*, Tutorial de Github](https://guides.github.com/activities/hello-world/)
 - [Coordenadas Cartesianas](https://es.wikipedia.org/wiki/Coordenadas_cartesianas)
