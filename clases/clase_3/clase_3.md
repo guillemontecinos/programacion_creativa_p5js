@@ -1,5 +1,9 @@
 # Clase 3: Texto en p5.js (19 de marzo)
 En esta clase revisaremos pasajes de la obra de los diseñadores Muriel Cooper y John Maeda, ambos del [MIT Media Lab](https://www.media.mit.edu/), con el objeto de esbozar una idea del rol de la tipografía en el arte y diseño algorítmicos. Posteriormente, replicaremos una obra de uno de estos exponentes, con el objeto de adentrarnos en el uso de la tipografía como un objeto de diseño en p5.js. Para ello revisaremos y aplicaremos funciones que nos facilitarán el trabajo espacial de texto.
+## Wifi
+Red: LaPlantaExt
+
+Password: 0165laplanta123
 ## Presentación y comentarios recode Hélio Oiticica
 ## Repaso
 - Bucles [*For*](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_3/slides/#/3)
