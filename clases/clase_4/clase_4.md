@@ -6,8 +6,8 @@ En esta clase exploraremos las posibilidades que nos entrega p5.js para trabajar
 - [Sergio Larraín](https://es.wikipedia.org/wiki/Sergio_Larra%C3%ADn)
 ## Importación de imágenes, tintura y filtros a p5.js
 - [Ejemplo 1](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_4/clase_4_ejemplos/clase_4_ejemplo_1.js)
-## Importación de pixeles
-## Manipulación de pixeles
+## Importación y manipulación de pixeles
+- [Arreglo de pixeles en formato Uint8](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray)
 ## Captura de video mediante webcam
 ## Procesamiento de imagen en vivo
 ## Apéndice
