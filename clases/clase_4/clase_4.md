@@ -8,6 +8,7 @@ En esta clase exploraremos las posibilidades que nos entrega p5.js para trabajar
 - [Ejemplo 1](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_4/clase_4_ejemplos/clase_4_ejemplo_1.js)
 ## Importación y manipulación de pixeles
 - [Arreglo de pixeles en formato Uint8](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray)
+- Importar atributos de pixel utilizando álgebra. [11.3: The Pixel Array, Daniel Shiffman](https://www.youtube.com/watch?v=nMUMZ5YRxHI)
 ## Captura de video mediante webcam
 ## Procesamiento de imagen en vivo
 ## Apéndice
