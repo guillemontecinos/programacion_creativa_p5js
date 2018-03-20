@@ -4,10 +4,10 @@
 // por Guillermo Montecinos y Coded Escuela
 
 var fuente;
-var texto = 'CODED';
+var texto = 'hola';
 var tamano = 100;
 var box;
-var cantidad = 4;
+var cantidad;
 var alpha;
 
 function preload(){ //función preload para cargar objetos previo a ejecutar setup (función asíncrona)
