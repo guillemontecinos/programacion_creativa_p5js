@@ -24,6 +24,7 @@ Password: 0165laplanta123
 - Importación de fuente utilizando [loadFont()](https://p5js.org/reference/#/p5/loadFont) y [preLoad()](https://p5js.org/reference/#/p5/preLoad)
 - [Fuentes para descargar](https://github.com/guillemontecinos/programacion_creativa_p5js/tree/master/clases/clase_3/fuentes)
 - [Ejemplos](https://github.com/guillemontecinos/programacion_creativa_p5js/tree/master/clases/clase_3/clase_3_ejemplos)
+- [Ejemplos para descargar](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_3/clase_3_ejemplos.zip)
 ## Recode: *Japanese Poster*, de John Maeda
 - [Japanese Poster, John Maeda](https://github.com/guillemontecinos/recode/blob/master/maeda_john-morisawa/documentation/docu_morisawa.md)
 ## Tarea
