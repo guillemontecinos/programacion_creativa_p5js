@@ -23,10 +23,7 @@ Password: 0165laplanta123
 - Tamaño y fuente utilizando funciones [textSize()](https://p5js.org/reference/#/p5/textSize) y [textFont()](https://p5js.org/reference/#/p5/textFont)
 - Importación de fuente utilizando [loadFont()](https://p5js.org/reference/#/p5/loadFont) y [preLoad()](https://p5js.org/reference/#/p5/preLoad)
 - [Fuentes para descargar](https://github.com/guillemontecinos/programacion_creativa_p5js/tree/master/clases/clase_3/fuentes)
-- [Ejemplo 1](https://github.com/guillemontecinos/programacion_creativa_p5js/tree/master/clases/clase_3/clase_3_ejemplos)
-## Importación de texto como un arreglo de puntos
-- [Ejemplo 2](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_3/clase_3_ejemplos/ejemplo_2.js)
-- [Ejemplo 3](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_3/clase_3_ejemplos/ejemplo_3.js)
+- [Ejemplos](https://github.com/guillemontecinos/programacion_creativa_p5js/tree/master/clases/clase_3/clase_3_ejemplos)
 ## Recode: *Japanese Poster*, de John Maeda
 - [Japanese Poster, John Maeda](https://github.com/guillemontecinos/recode/blob/master/maeda_john-morisawa/documentation/docu_morisawa.md)
 ## Tarea
