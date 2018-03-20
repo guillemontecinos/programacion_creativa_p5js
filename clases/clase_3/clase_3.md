@@ -41,4 +41,6 @@ Programar un *sketch* en el que se explore el uso de la tipografía como objeto 
 - [Curva Paramétrica](https://es.wikipedia.org/wiki/Ecuaci%C3%B3n_param%C3%A9trica)
 - [Curvas de Lissajous](https://es.wikipedia.org/wiki/Curva_de_Lissajous)
 - [Álgebra de Boole](https://es.wikipedia.org/wiki/%C3%81lgebra_de_Boole)
-
+#### Poesía
+- [Nick Montfort](https://nickm.com/)
+- [Allison Parrish](https://www.decontextualize.com/)
