@@ -5,7 +5,7 @@
 // por Guillermo Montecinos y Coded Escuela
 
 var video;
-var vScale = 6;
+var vScale = 15;
 
 function setup(){
   createCanvas(640,480);
