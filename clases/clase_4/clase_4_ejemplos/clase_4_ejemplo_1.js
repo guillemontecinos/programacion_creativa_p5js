@@ -1,6 +1,7 @@
 // Programación Creativa usando p5.js
 // Clase 4
 // Ejemplo 1
+// Imagen
 // por Guillermo Montecinos y Coded Escuela
 
 var img; //variable que contiene la imagen
