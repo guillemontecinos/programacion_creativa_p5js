@@ -33,6 +33,7 @@
 ## María José
 * visuales, texto
 * [John Whitney](https://www.youtube.com/watch?v=TbV7loKp69s)
+* [Golan Levine - Interpolation](https://www.youtube.com/watch?v=mvgcNOX8JGQ)
 
 ## Pamela
 * dibujar figuras que se muevan y escribir poemas sobre ellas
