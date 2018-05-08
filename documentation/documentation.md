@@ -2,7 +2,7 @@
 Dictado por Guillermo Montecinos en [Centro La Planta](http://centrolaplanta.com/) en marzo de 2018. 
 Organizado por [Escuela Coded](http://codedescuela.cl) y [Productora Suricata](https://productorasuricata.com/).
 
-**Este documento es una documentación de la realización del curso en marzo de 2018. A continuación se describe una pequeña reseña sibre el curso y el instructor. Luego se detalla el programa del curso con *links* a cada clase, y posteriormente se muestra una documentación visual del curso.**
+**Este documento es una documentación de la clase del curso en marzo de 2018, a la cual asistieron 8 alumnos. A continuación se describe una pequeña reseña sibre el curso y el instructor. Luego se detalla el programa del curso con *links* a cada clase, y posteriormente se muestra una documentación visual del curso.**
 
 ## Sobre el Curso
 Curso de introducción a la programación creativa que busca explorar las posibilidades de los nuevos medios digitales en contextos artísticos y/o creativos. Como una primera aproximación, durante 6 sesiones revisaremos las nociones elementales de programación que permitan la construcción de sistemas complejos, utilizando el código como herramienta facilitadora de la expresión de la creatividad.
