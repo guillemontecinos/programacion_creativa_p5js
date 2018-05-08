@@ -16,7 +16,7 @@ http://guillemontecinos.cl/
 ## Programa
 
 ### Módulo 1 - Recode: Artes visuales y p5.js
-#### Clase 1: Introducción a p5.js (12 de marzo)
+#### [Clase 1: Introducción a p5.js (12 de marzo)](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_1/clase_1.md)
 En esta primera clase realizaremos una introducción al curso en la que plantearemos las ideas que nos motivan a enseñar el uso de un *Software Libre* ([FLOSS](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)) como [p5.js](https://p5js.org/es). Luego discutiremos el contexto en que se desarrollan este tipo de herramientas de programación orientadas al arte. Posteriormente analizaremos el trabajo artístico de pintora cubana [Carmen Herrera](https://en.wikipedia.org/wiki/Carmen_Herrera), para finalmente reinterpretar en código una de sus obras a través de la cual revisaremos, aplicaremos y comprenderemos la estructura y funciones básicas de p5.js, la sintaxis elemental de JavaScript.
 #### Temario
 - Presentación del instructor y Escuela Coded
@@ -37,7 +37,7 @@ En esta primera clase realizaremos una introducción al curso en la que plantear
 ##### Referencias
 - [Sesión 2. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_2/slides/#/)
 - [*The 100 years show*](https://www.netflix.com/title/80106609), documental sobre Carmen Herrera
-#### Clase 2: Arreglos, Bucles *For* y Condicionales *If* (14 de marzo)
+#### [Clase 2: Arreglos, Bucles *For* y Condicionales *If* (14 de marzo)](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_2/clase_2.md)
 En esta clase volveremos a revisar y discutir el contexto de las artes mediales, poniendo el foco esta vez en las artes interactivas en entornos web. Posteriormente revisaremos la obra concreta del artista brasileño, particularmente de su ejercicio denominado *Metaesquema* el cual utilizaremos como modelo para analizar y comprender la lógica algorítmica de sus composiciones. Finalmente llevaremos al código uno de sus ejercicios de Metaesquema, a través del cual revisaremos conceptos elementales de programación como bucles for, condicionales y arreglos de variables.
 - Presentación y comentarios recode Carmen Herrera
 - Arte Web y Nuevos Medios, por Aarón Montoya-Moraga
@@ -52,7 +52,7 @@ En esta clase volveremos a revisar y discutir el contexto de las artes mediales,
 ##### Referencias
 - [Sesión 3. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_3/slides/#/)
 ### Módulo 2 - Medios: texto, imagen y video
-#### Clase 3: Texto en p5.js (19 de marzo)
+#### [Clase 3: Texto en p5.js (19 de marzo)](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_3/clase_3.md)
 En esta clase revisaremos pasajes de la obra de los diseñadores Muriel Cooper y John Maeda, ambos del [MIT Media Lab](https://www.media.mit.edu/), con el objeto de esbozar una idea del rol de la tipografía en el arte y diseño algorítmicos. Posteriormente, replicaremos una obra de uno de estos exponentes, con el objeto de adentrarnos en el uso de la tipografía como un objeto de diseño en p5.js. Para ello revisaremos y aplicaremos funciones que nos facilitarán el trabajo espacial de texto.
 - Presentación y comentarios recode Hélio Oiticica
 - Muriel Cooper y John Maeda: tipografía y diseño
@@ -65,7 +65,7 @@ En esta clase revisaremos pasajes de la obra de los diseñadores Muriel Cooper y
 - Métodos de objeto *font*: [textBounds()](https://p5js.org/es/reference/#/p5.Font/textBounds) y [textToPints()](https://p5js.org/es/reference/#/p5.Font/textToPoints)
 ##### Referencias
 - [Sesión 4. Introducción a p5.js, Coded Escuela](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_4/slides/#/)
-#### Clase 4: Imagen y Video en p5.js (21 de marzo)
+#### [Clase 4: Imagen y Video en p5.js (21 de marzo)](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_4/clase_4.md)
 En esta clase exploraremos las posibilidades que nos entrega p5.js para trabajar con imágenes y video. Comenzaremos importando una imagen al navegador web, la cual manipularemos y filtraremos utilizando las funciones nativas de p5.js. Posteriormente comprenderemos la imagen como una matriz de pixeles, los cuales pueden ser importados y manipulados por separado, creando filtros más complejos sobre la imagen fija. Luego aprenderemos a importar video desde la webcam utilizando el capturador de p5.js, el que desplegaremos en el navegador web y manipularemos en tiempo real.
 - Importación de imágenes a p5.js
 - Aplicación de filtros en p5.js
@@ -77,7 +77,7 @@ En esta clase exploraremos las posibilidades que nos entrega p5.js para trabajar
 - Funciones: [loadImage()](https://p5js.org/es/reference/#/p5/loadImage), [createCapture()](https://p5js.org/es/reference/#/p5/createCapture), [loadPixels()](https://p5js.org/es/reference/#/p5/loadPixels), [updatePixels()](https://p5js.org/es/reference/#/p5/updatePixels), [get()](https://p5js.org/es/reference/#/p5/get) y [set()](https://p5js.org/es/reference/#/p5/set)
 ##### Referencias
 ### Módulo 3 - Proyecto
-#### Clase 5 (26 de marzo)
+#### [Clase 5 (26 de marzo)](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/clases/clase_5/clase_5.md)
 La penúltima clase del curso estará dedicada a que cada participante trabaje en el desarrollo de su proyecto personal/grupal. El equipo Coded cumplirá el rol de facilitar y ayudar a la programacin de cada uno de los proyectos.
 #### Clase 6 (28 de marzo)
 La última clase del curso será dividida en tres partes: 
