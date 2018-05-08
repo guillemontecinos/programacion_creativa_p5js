@@ -93,3 +93,4 @@ La última clase del curso será dividida en tres partes:
 - [*The Coding Train*, tutorial de YouTube de Daniel Shiffman](https://www.youtube.com/user/shiffman)
 
 ## Documentación Visual
+![](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/documentation/C2_LaPlanta_10.jpg)
