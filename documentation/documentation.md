@@ -94,3 +94,6 @@ La última clase del curso será dividida en tres partes:
 
 ## Documentación Visual
 ![](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/documentation/C2_LaPlanta_10.jpg)
+![](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/documentation/TallerP5_LaPlanta_7.jpg)
+![](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/documentation/TallerP5_LaPlanta_25.jpg)
+![](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/documentation/TallerP5_LaPlanta_29.jpg)
