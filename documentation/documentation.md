@@ -2,7 +2,7 @@
 Dictado por Guillermo Montecinos en [Centro La Planta](http://centrolaplanta.com/) en marzo de 2018. 
 Organizado por [Escuela Coded](http://codedescuela.cl) y [Productora Suricata](https://productorasuricata.com/).
 
-Este documento es una documentación de la clase del curso en marzo de 2018, a la cual asistieron 8 alumnos. A continuación se describe una pequeña reseña sibre el curso y el instructor. Luego se detalla el programa del curso con *links* a cada clase, y posteriormente se muestra una documentación visual del curso.
+Este documento es una documentación de la clase del curso en marzo de 2018, a la cual asistieron 8 alumnos. A continuación se describe una pequeña reseña sobre el curso y el instructor. Luego se presenta una documentación visual del curso y finalmente se detalla el programa del curso con *links* a cada clase.
 
 El curso constó de 6 clases, en las que se revisaron contenidos de programación creativa. Durante las últimas 2 clases los alumnos desarrollaron proyectos, los que fueron revisados y comentados en una sesión abierta a la que asistieron Mónica Bate (Artes U. Chile) y Estáben Sandoval (DILAB UC) como profesores invitados.
 
@@ -16,6 +16,13 @@ Posteriormente, revisaremos técnicas para trabajar con texto, imagen y video en
 ## Sobre el Instructor
 Guillermo Montecinos es educador, músico e ingeniero con base en Santiago. Su trabajo se enfoca en la construcción de experiencias sonoras inmersivas que evoquen y provoquen a la audiencia a partir de la sonoridad y visualidad. Es co-fundador de Coded, Escuela de Artes y Oficios Electrónicos (Santiago, Chile) y graduado de la School for Poetic Computation (NY).<br> 
 http://guillemontecinos.cl/
+
+## Documentación Visual
+![](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/documentation/C2_LaPlanta_10.jpg)
+![](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/documentation/TallerP5_Sofa_7.jpg)
+![](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/documentation/TallerP5_LaPlanta_7.jpg)
+![](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/documentation/TallerP5_LaPlanta_25.jpg)
+![](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/documentation/TallerP5_LaPlanta_29.jpg)
 
 ## Programa
 
@@ -91,10 +98,3 @@ La última clase del curso será dividida en tres partes:
 ### Referencias del curso
 - [Libro *Getting Started in p5.js* en Español](https://github.com/processing/p5.js-getting-started-es/blob/master/v1.0.2.pdf)
 - [*The Coding Train*, tutorial de YouTube de Daniel Shiffman](https://www.youtube.com/user/shiffman)
-
-## Documentación Visual
-![](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/documentation/C2_LaPlanta_10.jpg)
-![](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/documentation/TallerP5_LaPlanta_7.jpg)
-![](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/documentation/TallerP5_LaPlanta_25.jpg)
-![](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/documentation/TallerP5_LaPlanta_29.jpg)
-![](https://github.com/guillemontecinos/programacion_creativa_p5js/blob/master/documentation/TallerP5_Sofa_7.jpg)
